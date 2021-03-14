@@ -1,8 +1,8 @@
 <h1>Tuan Duc Design - Consulting VPS and Website services <img src="https://komarev.com/ghpvc/?username=tuanducdesign" alt="tuanducdesign" /></h1> 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6WR3R)
+Status on my Website: [![Netlify Status](https://api.netlify.com/api/v1/badges/4f1a0279-e216-4dc8-b097-746d73aab237/deploy-status)](https://app.netlify.com/sites/tuanducdesign/deploys)
 
-<img src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="300" style="float: right" />
+<img src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="128" style="float: right" />
 
 - Design, optimize website and install vps
 - Design, optimize website from platforms example : WordPress, Laravel, v.v
