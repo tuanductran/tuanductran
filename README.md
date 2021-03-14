@@ -1,6 +1,6 @@
 <h1>Tuan Duc Design - Consulting VPS and Website services <img src="https://komarev.com/ghpvc/?username=tuanducdesign" alt="tuanducdesign" /></h1> 
 
-# Status on my Website: 
+# Status on my Website: https://tuanducdesign.com
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4f1a0279-e216-4dc8-b097-746d73aab237/deploy-status)](https://app.netlify.com/sites/tuanducdesign/deploys)
 
