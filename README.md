@@ -20,7 +20,7 @@
 - [Lazyload Youtube và Responsive Video](https://tuanducdesign.com/2021/03/lazyload-youtube-va-responsive-video.html)
 - [Sáu loại nội dung SEO Google luôn thích](https://tuanducdesign.com/2021/03/sau-loai-noi-dung-seo-google-luon-thich.html)
 - [Lazyload Google Adsense](https://tuanducdesign.com/2021/02/lazyload-google-adsense.html)
-- [Bộ Ba Thư Viện Thần Thánh Giúp Website Tối Ưu](https://tuanducdesign.com/2021/02/bo-ba-thu-vien-than-thanh-giup-website-toi-uu.html)
+- [Mẹo Tối Ưu Website Khi Sử Dụng Zalo Plugins](https://tuanducdesign.com/2021/02/meo-toi-uu-website-khi-su-dung-zalo-plugins.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
