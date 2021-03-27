@@ -1,6 +1,11 @@
-<h1>Tuan Duc Design - Consulting VPS and Website services</h1> 
+<h1 align="center">
+    <img alt="Tuan Duc Design" title="Tuan Duc Design" src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="150"> </br>
+    Tuan Duc Design
+</h1>
 
-<img src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="128" style="float: center" />
+<h4 align="center">
+  Consulting VPS and Website services
+</h4>
 
 # Status on my Website: https://tuanducdesign.com
 
@@ -26,8 +31,8 @@
 - [Sáu loại nội dung SEO Google luôn thích](https://tuanducdesign.com/2021/03/sau-loai-noi-dung-seo-google-luon-thich.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+<h3 align="center">Connect with me:</h3>
 <a href="https://twitter.com/tuanducdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tuanducdesign" height="20" width="30" /></a>
 <a href="https://www.facebook.com/tuanduc.support" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tuanducdesign" height="20" width="30" /></a>
 <a href="https://tuanducdesign.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://tuanducdesign.com/rss.xml" height="20" width="30" /></a>
