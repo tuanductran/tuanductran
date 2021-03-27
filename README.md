@@ -3,6 +3,8 @@
 # Status on my Website: https://tuanducdesign.com
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4f1a0279-e216-4dc8-b097-746d73aab237/deploy-status)](https://app.netlify.com/sites/tuanducdesign/deploys)
+[![DeepScan grade](https://deepscan.io/api/teams/13432/projects/16426/branches/352293/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13432&pid=16426&bid=352293)
+[![DeepSource](https://deepsource.io/gh/tuanducteam/tuanducdesign.svg/?label=resolved+issues)](https://deepsource.io/gh/tuanducteam/tuanducdesign/?ref=repository-badge)
 
 # Main information:
 
@@ -19,7 +21,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lazyload Google Map](https://tuanducdesign.com/2021/03/lazyload-google-map.html)
 - [Lazyload Youtube và Responsive Video](https://tuanducdesign.com/2021/03/lazyload-youtube-va-responsive-video.html)
-- [Cách Cấu Hình Cloudflare Khi Sử Dụng Module Pagespeed Trên VPS](https://tuanducdesign.com/2021/03/cach-cau-hinh-cloudflare-khi-su-dung-module-pagespeed-tren-vps.html)
 - [Sáu loại nội dung SEO Google luôn thích](https://tuanducdesign.com/2021/03/sau-loai-noi-dung-seo-google-luon-thich.html)
 <!-- BLOG-POST-LIST:END -->
 
