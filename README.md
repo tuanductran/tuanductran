@@ -1,4 +1,6 @@
-<h1>Tuan Duc Design - Consulting VPS and Website services <img src="https://komarev.com/ghpvc/?username=tuanducdesign" alt="tuanducdesign" /></h1> 
+<h1>Tuan Duc Design - Consulting VPS and Website services</h1> 
+
+<img src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="128" style="float: center" />
 
 # Status on my Website: https://tuanducdesign.com
 
@@ -8,7 +10,7 @@
 
 # Main information:
 
-<img src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="128" style="float: center" />
+<img src="https://komarev.com/ghpvc/?username=tuanducdesign" alt="tuanducdesign" />
 
 - Design, optimize website and install vps
 - Design, optimize website from platforms example: WordPress, Laravel, v.v
