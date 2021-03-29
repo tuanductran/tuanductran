@@ -28,8 +28,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Lazyload Google Map](https://tuanducdesign.com/2021/03/lazyload-google-map.html)
 - [Lazyload Youtube và Responsive Video](https://tuanducdesign.com/2021/03/lazyload-youtube-va-responsive-video.html)
+- [Cách Cấu Hình Cloudflare Khi Sử Dụng Module Pagespeed Trên VPS](https://tuanducdesign.com/2021/03/cach-cau-hinh-cloudflare-khi-su-dung-module-pagespeed-tren-vps.html)
 - [Sáu loại nội dung SEO Google luôn thích](https://tuanducdesign.com/2021/03/sau-loai-noi-dung-seo-google-luon-thich.html)
-- [Lazyload Google Adsense](https://tuanducdesign.com/2021/02/lazyload-google-adsense.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
