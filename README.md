@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b954cb43-190e-483f-8912-d426c18de58a/deploy-status)](https://app.netlify.com/sites/tuanducdesign/deploys)
 [![DeepScan grade](https://deepscan.io/api/teams/13432/projects/16426/branches/352293/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13432&pid=16426&bid=352293)
 [![DeepSource](https://deepsource.io/gh/tuanducteam/tuanducdesign.svg/?label=resolved+issues)](https://deepsource.io/gh/tuanducteam/tuanducdesign/?ref=repository-badge)
+[![Maintainability](https://api.codeclimate.com/v1/badges/14e9ed0efe9e86d7f2af/maintainability)](https://codeclimate.com/github/tuanducteam/tuanducdesign/maintainability)
 
 # Main information:
 
