@@ -27,10 +27,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hướng dẫn cấu hình và sử dụng NextDNS trên Modem](https://tuanducdesign.com/series/huong-duong-cau-hinh-va-su-dung-nextdns-tren-modem.html)
 - [Giới thiệu các series trên Tuan Duc Design](https://tuanducdesign.com/series.html)
 - [List of awesome CSS frameworks](https://tuanducdesign.com/2021/03/list-of-awesome-css-frameworks.html)
 - [Lazyload Google Map](https://tuanducdesign.com/2021/03/lazyload-google-map.html)
-- [Lazyload Youtube và Responsive Video](https://tuanducdesign.com/2021/03/lazyload-youtube-va-responsive-video.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
