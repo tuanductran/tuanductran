@@ -22,7 +22,6 @@
 - I regularly write articles in blog: [tuanducdesign.com](tuanducdesign.com)
 - Ask me about **Optimize Website, Install VPS, Hosting Selection**
 - Reaching **me at tuanducdesign dot com**
-- My profile: https://profile.tuanducdesign.com
 
 ### Blogs posts:
 
