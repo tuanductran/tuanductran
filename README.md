@@ -26,10 +26,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cấu hình chức năng kiểm soát của cha mẹ trên NextDNS](https://tuanducdesign.com/series/cau-hinh-chuc-nang-kiem-soat-cua-cha-me-tren-nextdns.html)
 - [Cấu hình các chức năng riêng tư trên NextDNS](https://tuanducdesign.com/series/cau-hinh-cac-chuc-nang-rieng-tu-tren-nextdns.html)
 - [Tìm hiểu và kích hoạt các chức năng bảo mật trên NextDNS](https://tuanducdesign.com/series/tim-hieu-va-kich-hoat-cac-chuc-nang-bao-mat-tren-nextdns.html)
 - [Hướng dẫn cấu hình và sử dụng NextDNS trên Modem](https://tuanducdesign.com/series/huong-duong-cau-hinh-va-su-dung-nextdns-tren-modem.html)
-- [Giới thiệu các series trên Tuan Duc Design](https://tuanducdesign.com/series.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
