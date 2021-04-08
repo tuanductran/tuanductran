@@ -26,10 +26,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cấu hình chức năng cho phép tên miền trên NextDNS](https://tuanducdesign.com/series/cau-hinh-chuc-nang-cho-phep-ten-mien-tren-nextdns.html)
 - [Bàn về chuyện Framework nào seo tốt cho mảng bán hàng](https://tuanducdesign.com/2021/04/ban-ve-chuyen-framework-nao-seo-tot-cho-mang-ban-hang.html)
 - [Cấu hình chức năng chặn tên miền trên NextDNS](https://tuanducdesign.com/series/cau-hinh-chuc-nang-chan-ten-mien-tren-nextdns.html)
 - [Cấu hình chức năng kiểm soát của cha mẹ trên NextDNS](https://tuanducdesign.com/series/cau-hinh-chuc-nang-kiem-soat-cua-cha-me-tren-nextdns.html)
-- [Cấu hình các chức năng riêng tư trên NextDNS](https://tuanducdesign.com/series/cau-hinh-cac-chuc-nang-rieng-tu-tren-nextdns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
