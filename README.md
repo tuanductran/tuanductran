@@ -26,10 +26,10 @@
 ### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Series hướng dẫn sử dụng NextDNS](https://tuanducdesign.com/series-nextdns.html)
 - [Cách theo dõi nhật ký trên NextDNS](https://tuanducdesign.com/series/cach-theo-doi-nhat-ky-tren-nextdns.html)
 - [Tìm hiểu các chức năng cài đặt trên NextDNS](https://tuanducdesign.com/series/tim-hieu-cac-chuc-nang-cai-dat-tren-nextdns.html)
 - [Chức năng theo dõi trên NextDNS có ý nghĩa gì](https://tuanducdesign.com/series/chuc-nang-theo-doi-tren-nextdns-co-y-nghia-gi.html)
-- [Cấu hình chức năng cho phép tên miền trên NextDNS](https://tuanducdesign.com/series/cau-hinh-chuc-nang-cho-phep-ten-mien-tren-nextdns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
