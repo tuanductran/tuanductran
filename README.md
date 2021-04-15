@@ -37,7 +37,7 @@
 <a href="https://twitter.com/tuanducdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tuanducdesign" height="30" width="40" /></a>
 <a href="https://fb.com/tuanduc.support" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tuanduc.support" height="30" width="40" /></a>
 <a href="https://instagram.com/mi.profile.56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mi.profile.56" height="30" width="40" /></a>
-<a href="/https://tuanducdesign.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://tuanducdesign.com/rss.xml" height="30" width="40" /></a>
+<a href="https://tuanducdesign.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://tuanducdesign.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
