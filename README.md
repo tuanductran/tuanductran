@@ -1,38 +1,50 @@
-<h1 align="center">
-    <img alt="Tuan Duc Design" title="Tuan Duc Design" src="https://cdn.tuanducdesign.com/assets/images/tuanducdesign.jpg" width="150"> </br>
-    Tuan Duc Design
-</h1>
+<h1 align="center">Hi 👋, I'm Tuan Duc Tran</h1>
+<h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
-<h4 align="center">
-  Consulting VPS and Website services </br></br>
-  <img src="https://komarev.com/ghpvc/?username=tuanducdesign" alt="tuanducdesign" />
-</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat" alt="tuanducdesign" /> </p>
 
-# Status on my Website: https://tuanducdesign.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuanducdesign" alt="tuanducdesign" /></a> </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b954cb43-190e-483f-8912-d426c18de58a/deploy-status)](https://app.netlify.com/sites/tuanducdesign/deploys)
-[![DeepScan grade](https://deepscan.io/api/teams/13432/projects/16426/branches/352293/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13432&pid=16426&bid=352293)
-[![DeepSource](https://deepsource.io/gh/tuanducteam/tuanducdesign.svg/?label=resolved+issues)](https://deepsource.io/gh/tuanducteam/tuanducdesign/?ref=repository-badge)
-[![Maintainability](https://api.codeclimate.com/v1/badges/14e9ed0efe9e86d7f2af/maintainability)](https://codeclimate.com/github/tuanducteam/tuanducdesign/maintainability)
+<p align="left"> <a href="https://twitter.com/tuanducdesign" target="blank"><img src="https://img.shields.io/twitter/follow/tuanducdesign?logo=twitter&style=for-the-badge" alt="tuanducdesign" /></a> </p>
 
-# Main information:
+- 🔭 I’m currently working on [Github Tuan Duc Team](https://github.com/tuanducteam)
 
-- Design, optimize website and install vps
-- Design, optimize website from platforms example: WordPress, Laravel, v.v
-- I regularly write articles in blog: [tuanducdesign.com](tuanducdesign.com)
-- Ask me about **Optimize Website, Install VPS, Hosting Selection**
-- Reaching **me at tuanducdesign dot com**
+- 🌱 I'm currently using languages **HTML, CSS, JAVASCRIPT**
 
-### Blogs posts:
+- 👯 I’m looking to collaborate on [Blog Tuan Duc Design](https://tuanducdesign.com)
 
+- 🤝 I’m looking for help with [Framework7](https://framework7.io)
+
+- 👨‍💻 All of my projects are available at [https://github.com/tuanducdesign](https://github.com/tuanducdesign)
+
+- 📝 I regularly write articles on [https://tuanducdesign.com](https://tuanducdesign.com)
+
+- 💬 Ask me about **Optimize Website, Install VPS, Hosting Selection**
+
+- 📫 How to reach me **miumiu.official.56@gmail.com**
+
+- 📄 Want to know about my information [https://about.tuanducdesign.com](https://about.tuanducdesign.com)
+
+- ⚡ Fun fact **I'm a freelancer: D**
+
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Series hướng dẫn sử dụng NextDNS](https://tuanducdesign.com/series-nextdns.html)
-- [Cách theo dõi nhật ký trên NextDNS](https://tuanducdesign.com/series/cach-theo-doi-nhat-ky-tren-nextdns.html)
-- [Tìm hiểu các chức năng cài đặt trên NextDNS](https://tuanducdesign.com/series/tim-hieu-cac-chuc-nang-cai-dat-tren-nextdns.html)
-- [Chức năng theo dõi trên NextDNS có ý nghĩa gì](https://tuanducdesign.com/series/chuc-nang-theo-doi-tren-nextdns-co-y-nghia-gi.html)
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/tuanducdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tuanducdesign" height="30" width="40" /></a>
+<a href="https://twitter.com/tuanducdesign" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tuanducdesign" height="30" width="40" /></a>
+<a href="https://fb.com/tuanduc.support" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tuanduc.support" height="30" width="40" /></a>
+<a href="https://instagram.com/mi.profile.56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mi.profile.56" height="30" width="40" /></a>
+<a href="/https://tuanducdesign.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://tuanducdesign.com/rss.xml" height="30" width="40" /></a>
+</p>
 
-- [https://twitter.com/tuanducdesign](https://twitter.com/tuanducdesign)
-- [https://www.facebook.com/tuanduc.support](https://www.facebook.com/tuanduc.support)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuanducdesign&show_icons=true&locale=en&layout=compact" alt="tuanducdesign" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuanducdesign&show_icons=true&locale=en" alt="tuanducdesign" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuanducdesign&" alt="tuanducdesign" /></p>
