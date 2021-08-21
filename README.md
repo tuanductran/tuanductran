@@ -23,16 +23,15 @@
 
 - 📫 How to reach me **miumiu.official.56@gmail.com**
 
-- 📄 Want to know about my information [https://about.tuanducdesign.com](https://about.tuanducdesign.com)
 
-- ⚡ Fun fact **I'm a freelancer: D**
+- ⚡ Fun fact **I'm a freelancer :D**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Hướng dẫn cấu hình NOIP để hoạt động với NextDNS](/series/huong-dan-cau-hinh-noip-de-hoat-dong-voi-nextdns)
-- [Series hướng dẫn sử dụng NextDNS](/series-nextdns)
-- [Tìm hiểu các chức năng cài đặt trên NextDNS](/series/tim-hieu-cac-chuc-nang-cai-dat-tren-nextdns)
-- [Cách theo dõi nhật ký trên NextDNS](/series/cach-theo-doi-nhat-ky-tren-nextdns)
+- [Hướng dẫn cấu hình NOIP để hoạt động với NextDNS](https://tuanducdesign.com/series/huong-dan-cau-hinh-noip-de-hoat-dong-voi-nextdns)
+- [Series hướng dẫn sử dụng NextDNS](https://tuanducdesign.com/series-nextdns)
+- [Tìm hiểu các chức năng cài đặt trên NextDNS](https://tuanducdesign.com/series/tim-hieu-cac-chuc-nang-cai-dat-tren-nextdns)
+- [Cách theo dõi nhật ký trên NextDNS](https://tuanducdesign.com/series/cach-theo-doi-nhat-ky-tren-nextdns)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
