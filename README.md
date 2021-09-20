@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Cách theo dõi nhật ký trên NextDNS](https://tuanducdesign.com/series/cach-theo-doi-nhat-ky-tren-nextdns)
-- [Chức năng theo dõi trên NextDNS có ý nghĩa gì](https://tuanducdesign.com/series/chuc-nang-theo-doi-tren-nextdns-co-y-nghia-gi)
-- [Cấu hình chức năng cho phép tên miền trên NextDNS](https://tuanducdesign.com/series/cau-hinh-chuc-nang-cho-phep-ten-mien-tren-nextdns)
-- [Bàn về chuyện Framework nào seo tốt cho mảng bán hàng](https://tuanducdesign.com/2021/04/ban-ve-chuyen-framework-nao-seo-tot-cho-mang-ban-hang)
+- [Hướng dẫn cấu hình NOIP để hoạt động với NextDNS](https://tuanducdesign.com/series/huong-dan-cau-hinh-noip-de-hoat-dong-voi-nextdns.html)
+- [Series hướng dẫn sử dụng NextDNS](https://tuanducdesign.com/series-nextdns.html)
+- [Tìm hiểu các chức năng cài đặt trên NextDNS](https://tuanducdesign.com/series/tim-hieu-cac-chuc-nang-cai-dat-tren-nextdns.html)
+- [Cách theo dõi nhật ký trên NextDNS](https://tuanducdesign.com/series/cach-theo-doi-nhat-ky-tren-nextdns.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
