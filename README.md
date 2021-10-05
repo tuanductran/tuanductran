@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mẫu Config Module PageSpeed trên máy chủ LiteSpeed](https://tuanducdesign.com/snippet/mau-config-module-pagespeed-tren-may-chu-litespeed/)
 - [Hướng dẫn cấu hình NOIP để hoạt động với NextDNS](https://tuanducdesign.com/series/huong-dan-cau-hinh-noip-de-hoat-dong-voi-nextdns/)
 - [Series hướng dẫn sử dụng NextDNS](https://tuanducdesign.com/series-nextdns/)
 - [Tìm hiểu các chức năng cài đặt trên NextDNS](https://tuanducdesign.com/series/tim-hieu-cac-chuc-nang-cai-dat-tren-nextdns/)
-- [Cách theo dõi nhật ký trên NextDNS](https://tuanducdesign.com/series/cach-theo-doi-nhat-ky-tren-nextdns/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
