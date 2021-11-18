@@ -8,7 +8,7 @@ I'm Tuan Duc Tran, a passionate frontend developer from Vietnamese, thank you ve
 
 ## About
 
-- 🔭 I’m currently working on [Github Tuan Duc Team](https://github.com/tuanducteam)
+- 🔭 I’m currently working on [Github VNO DESIGN](https://github.com/vnodesign)
 - 🌱 I'm currently using languages *HTML, CSS, JAVASCRIPT*
 - 👯 I’m looking to collaborate on [Blog Tuan Duc Design](https://tuanducdesign.com)
 - 🤝 I’m looking for help with [Framework7](https://framework7.io)
