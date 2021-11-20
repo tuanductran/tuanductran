@@ -19,10 +19,7 @@
 
 ### Connect with me
 
-- [CodePen](https://codepen.io/tuanducdesign)
-- [Twitter](https://twitter.com/tuanducdesign)
-- [Facebook](https://fb.com/tuanduc.support)
-- [Instagram](https://instagram.com/mi.profile.56)
+[CodePen](https://codepen.io/tuanducdesign), [Twitter](https://twitter.com/tuanducdesign), [Facebook](https://fb.com/tuanduc.support), [Instagram](https://instagram.com/mi.profile.56)
 
 ### Languages and Tools
 
