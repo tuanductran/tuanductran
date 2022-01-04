@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat" alt="tuanducdesign" /></p>
 
-<p align="center">I'm Tuan Duc Tran, a passionate frontend developer from Vietnamese, thank you very much for visiting my home page.</p>
+<p align="center">I'm Tuan Duc Tran, a passionate frontend, backend developer and designers from Vietnamese, thank you very much for visiting my home page.</p>
 
 ## About
 
