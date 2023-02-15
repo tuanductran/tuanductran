@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tuan Duc Tran</h1>
+# Hi 👋, I'm Tuan Duc Tran
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=tuanducdesign&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="tuanducdesign" /></p>
+![Tuan Duc Design github stats](https://github-readme-stats.vercel.app/api?username=tuanducdesign&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=blueberry)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat" alt="tuanducdesign" /></p>
+![tuanducdesign](https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">I'm Tuan Duc Tran, a passionate frontend, backend developer and designers from Vietnamese, thank you very much for visiting my home page.</p>
+I'm Tuan Duc Tran, a passionate frontend, backend developer and designers from Vietnamese, thank you very much for visiting my home page.
 
 ## About
 
