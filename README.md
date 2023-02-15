@@ -17,10 +17,6 @@
 - 💬 Ask me about **Optimize Website, Install VPS, Hosting Selection**
 - 📫 How to reach me **miumiu.official.56@gmail.com**
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with me
 
 [CodePen](https://codepen.io/tuanducdesign), [Twitter](https://twitter.com/tuanducdesigner), [Facebook](https://fb.com/tuanduc.support), [Instagram](https://instagram.com/mi.profile.56)
