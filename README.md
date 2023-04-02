@@ -2,13 +2,13 @@
 
 I'm Tuan Duc Tran, a passionate frontend, backend developer and designers from Vietnamese, thank you very much for visiting my repository.
 
-## Information about my GitHub account
+![tuanducdesign](https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat)
 
-Profile views: ![tuanducdesign](https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat)
+## Information about my GitHub account
 
 Account age: **2** years
 
-Pushed **2301** commits
+Pushed **2303** commits
 
 Opened **82** issues
 
