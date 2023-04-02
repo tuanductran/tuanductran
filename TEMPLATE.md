@@ -1,10 +1,10 @@
 # Hi 👋, I'm Tuan Duc Tran
 
-![Tuan Duc Design github stats](https://github-readme-stats.vercel.app/api?username=tuanducdesign&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=blueberry)
-
 I'm Tuan Duc Tran, a passionate frontend, backend developer and designers from Vietnamese, thank you very much for visiting my home page.
 
 ## Information about my GitHub account
+
+Profile views: ![tuanducdesign](https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat)
 
 Account age: **{{ ACCOUNT_AGE }}** years
 
