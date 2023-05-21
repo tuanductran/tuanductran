@@ -30,4 +30,4 @@ Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 [Bootstrap](https://getbootstrap.com), [Bulma](https://bulma.io/), [CSS](https://www.w3schools.com/css/), [GatsbyJS](https://www.gatsbyjs.com/), [Git](https://git-scm.com/), [HTML](https://www.w3.org/html/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Jekyll](https://jekyllrb.com/), [Laravel](https://laravel.com/), [Linux](https://www.linux.org/), [MYSQL](https://www.mysql.com/), [NextJS](https://nextjs.org/), [Nginx](https://www.nginx.com), [NuxtJS](https://nuxtjs.org/), [Adobe Photoshop](https://www.photoshop.com/en), [PHP](https://www.php.net), [ReactJS](https://reactjs.org/), [Redis](https://redis.io), [SASS](https://sass-lang.com), [TailwindCSS](https://tailwindcss.com/), [VueJS](https://vuejs.org/)
 
-<p align="right"><sub>Generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)</sub></p>
+**Generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
