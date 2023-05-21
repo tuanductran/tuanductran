@@ -1,0 +1,18 @@
+name: Prettier content MD
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: npm install
+      - name: Prettier check
+        run: npx prettier --check "**/*.md"
+      - name: Prettier format
+        run: npx prettier --write "**/*.md"
