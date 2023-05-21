@@ -1,4 +1,4 @@
-name: Prettier content MD and MDX
+name: Prettier content MD
 
 on:
   push:
