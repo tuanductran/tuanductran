@@ -1,0 +1,13 @@
+{
+  "name": "tuanducdesign",
+  "version": "1.0.0",
+  "repository": "https://github.com/tuanducdesign/tuanducdesign.git",
+  "author": "Tuan Duc Design <nguoisoidangyeu@outlook.com.vn>",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
