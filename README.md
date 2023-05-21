@@ -8,9 +8,9 @@ I'm Tuan Duc Tran, a passionate frontend and backend developer and designer from
 
 Account age: **2** years.
 
-Pushed **4040** commits.
+Pushed **4041** commits.
 
-Opened **100** issues.
+Opened **99** issues.
 
 Submitted **71** pull requests.
 
