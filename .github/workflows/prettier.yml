@@ -1,4 +1,4 @@
-name: Prettier content MD
+name: Prettier content MD and MDX
 
 on:
   push:
@@ -10,17 +10,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 18
-
-      - name: Install Prettier
-        run: npm install --global prettier
-
+      - name: Install dependencies
+        run: npm install
       - name: Prettier check
         run: npx prettier --check "**/*.md"
-
       - name: Prettier format
         run: npx prettier --write "**/*.md"
