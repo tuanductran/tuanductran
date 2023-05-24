@@ -10,7 +10,7 @@ Account age: **2** years.
 
 Pushed **4062** commits.
 
-Opened **100** issues.
+Opened **102** issues.
 
 Submitted **71** pull requests.
 
