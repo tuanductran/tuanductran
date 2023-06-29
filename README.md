@@ -2,25 +2,23 @@
 
 I'm Tuan Duc Tran, a passionate frontend and backend developer and designer from Vietnam. Thank you very much for visiting my repository.
 
-![tuanducdesign](https://komarev.com/ghpvc/?username=tuanducdesign&label=Profile%20views&color=0e75b6&style=flat)
-
 ## Information about my GitHub account
 
 Account age: **2** years.
 
-Pushed **4215** commits.
+Pushed **3556** commits.
 
-Opened **107** issues.
+Opened **104** issues.
 
-Submitted **71** pull requests.
+Submitted **57** pull requests.
 
 Reviewed **0** pull requests.
 
-Received **7** stars.
+Received **4** stars.
 
-Own **29** repositories.
+Own **6** repositories.
 
-Contributed to **17** public repositories.
+Contributed to **16** public repositories.
 
 ## Connect with me
 
