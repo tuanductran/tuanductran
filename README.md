@@ -14,7 +14,7 @@ Submitted **58** pull requests.
 
 Reviewed **0** pull requests.
 
-Received **6** stars.
+Received **7** stars.
 
 Own **9** repositories.
 
