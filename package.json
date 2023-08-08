@@ -1,13 +1,14 @@
 {
-  "name": "tuanducdesign",
+  "name": "tuanductran",
   "version": "1.0.0",
-  "repository": "https://github.com/tuanducdesign/tuanducdesign.git",
-  "author": "Tuan Duc Design <nguoisoidangyeu@outlook.com.vn>",
+  "repository": "https://github.com/tuanductran/tuanductran.git",
+  "author": "Tuan Duc Tran <tuanductran_dev@hotmail.com>",
   "license": "MIT",
+  "packageManager": "pnpm@8.6.12",
   "scripts": {
     "prettier": "prettier --write ."
   },
   "devDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3.0.1"
   }
 }
