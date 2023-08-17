@@ -4,9 +4,9 @@ I'm Tuan Duc Tran, a passionate frontend and backend developer and designer from
 
 ## Information about my GitHub account
 
-Account age: **2** years.
+Account age: **3** years.
 
-Pushed **3845** commits.
+Pushed **3846** commits.
 
 Opened **105** issues.
 
