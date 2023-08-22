@@ -26,7 +26,7 @@ Received **5** stars.
 
 Own **17** repositories.
 
-Contributed to **18** public repositories.
+Contributed to **17** public repositories.
 
 ## Connect with me
 
