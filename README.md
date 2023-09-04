@@ -14,7 +14,7 @@ I am highly enthusiastic and ready to collaborate with colleagues to create outs
 
 Account age: **3** years.
 
-Pushed **3903** commits.
+Pushed **3887** commits.
 
 Opened **112** issues.
 
@@ -24,7 +24,7 @@ Reviewed **0** pull requests.
 
 Received **5** stars.
 
-Own **17** repositories.
+Own **14** repositories.
 
 Contributed to **17** public repositories.
 
