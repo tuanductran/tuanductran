@@ -1,3 +1,5 @@
+![Name](https://raw.githubusercontent.com/tuanductran/tuanductran/master/name.svg)
+
 # About me
 
 Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience in web technologies. I have deep expertise in VueJS and NuxtJS, two popular frameworks for building client-side user interfaces. By applying the core concepts of VueJS and NuxtJS, I can create flexible, interactive, and efficient web applications.
@@ -14,7 +16,7 @@ I am highly enthusiastic and ready to collaborate with colleagues to create outs
 
 Account age: **3** years.
 
-Pushed **2820** commits.
+Pushed **2821** commits.
 
 Opened **113** issues.
 
@@ -30,10 +32,24 @@ Contributed to **19** public repositories.
 
 ## Connect with me
 
-[Twitter](https://twitter.com/tuanducdesigner), [LinkedIn](https://www.linkedin.com/in/tuanductran)
+- [Twitter](https://twitter.com/tuanducdesigner)
+- [LinkedIn](https://www.linkedin.com/in/tuanductran)
+- [Instagram](https://www.instagram.com/tuanductran.dev)
 
-## Languages and Tools
+## Skills
 
-[Bootstrap](https://getbootstrap.com), [Bulma](https://bulma.io/), [CSS](https://www.w3schools.com/css/), [GatsbyJS](https://www.gatsbyjs.com/), [Git](https://git-scm.com/), [HTML](https://www.w3.org/html/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Jekyll](https://jekyllrb.com/), [Laravel](https://laravel.com/), [Linux](https://www.linux.org/), [MYSQL](https://www.mysql.com/), [NextJS](https://nextjs.org/), [Nginx](https://www.nginx.com), [NuxtJS](https://nuxtjs.org/), [Adobe Photoshop](https://www.photoshop.com/en), [PHP](https://www.php.net), [ReactJS](https://reactjs.org/), [Redis](https://redis.io), [SASS](https://sass-lang.com), [TailwindCSS](https://tailwindcss.com/), [VueJS](https://vuejs.org/)
+- Bootstrap
+- Bulma
+- CSS
+- GatsbyJS
+- Git
+- HTML
+- JavaScript
+- Jekyll
+- Laravel
+- Linux,
+- MYSQL
+- NextJS
++ a lot more :D
 
 **Generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
