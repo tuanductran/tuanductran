@@ -2,7 +2,7 @@ name: Prettier content MD
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 */3 * * *' # every 3 hours
   push:
     branches: [master]
 
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Install dependencies
-        run: npm install
+        run: pnpm install
       - name: Prettier check
         run: npx prettier --check "**/*.md"
       - name: Prettier format
