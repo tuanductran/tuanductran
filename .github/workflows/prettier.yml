@@ -16,5 +16,5 @@ jobs:
         uses: pnpm/action-setup@v2.4.0
       - name: Install dependencies
         run: pnpm install
-      - name: Prettier check and format
-        run: npx prettier --check "**/*.md" && npx prettier --write "**/*.md"
+      - name: Prettier
+        run: npx prettier --write .
