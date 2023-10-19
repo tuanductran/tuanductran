@@ -1,5 +1,3 @@
-![Name](https://raw.githubusercontent.com/tuanductran/tuanductran/master/name.svg)
-
 # About me
 
 Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience in web technologies. I have deep expertise in VueJS and NuxtJS, two popular frameworks for building client-side user interfaces. By applying the core concepts of VueJS and NuxtJS, I can create flexible, interactive, and efficient web applications.
@@ -16,7 +14,7 @@ I am highly enthusiastic and ready to collaborate with colleagues to create outs
 
 Account age: **3** years.
 
-Pushed **2964** commits.
+Pushed **2966** commits.
 
 Opened **41** issues.
 
