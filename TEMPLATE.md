@@ -4,21 +4,21 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 ## Information about my GitHub account
 
-Account age: **{{ ACCOUNT_AGE }}** years.
+👶 Account age: **{{ ACCOUNT_AGE }}** years.
 
-Pushed **{{ COMMITS }}** commits.
+👨‍💻 Pushed **{{ COMMITS }}** commits.
 
-Opened **{{ ISSUES }}** issues.
+👐 Opened **{{ ISSUES }}** issues.
 
-Submitted **{{ PULL_REQUESTS }}** pull requests.
+✅ Submitted **{{ PULL_REQUESTS }}** pull requests.
 
-Reviewed **{{ CODE_REVIEWS }}** pull requests.
+👀 Reviewed **{{ CODE_REVIEWS }}** pull requests.
 
-Received **{{ STARS }}** stars.
+🌟 Received **{{ STARS }}** stars.
 
-Own **{{ REPOSITORIES }}** repositories.
+👤 Own **{{ REPOSITORIES }}** repositories.
 
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+🤝 Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 ## Connect with me
 
@@ -28,8 +28,8 @@ Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 ## Skills
 
-Bootstrap, Bulma, CSS, GatsbyJS, Git, HTML, JavaScript, Jekyll, Laravel, Linux, MYSQL, NextJS
+Bootstrap, Bulma, CSS, GatsbyJS, Git, HTML, JavaScript, Jekyll, Laravel, Linux, MYSQL, NextJS.
 
-A lot more :D
+A lot more 😅
 
 **Generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
