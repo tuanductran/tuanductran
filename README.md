@@ -14,7 +14,7 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 👀 Reviewed **0** pull requests.
 
-🌟 Received **26** stars.
+🌟 Received **27** stars.
 
 👤 Own **26** repositories.
 
