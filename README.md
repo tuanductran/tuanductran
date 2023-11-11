@@ -10,7 +10,7 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 👐 Opened **41** issues.
 
-✅ Submitted **45** pull requests.
+✅ Submitted **46** pull requests.
 
 👀 Reviewed **0** pull requests.
 
