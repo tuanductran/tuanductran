@@ -6,7 +6,7 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 👶 Account age: **3** years.
 
-👨‍💻 Pushed **3059** commits.
+👨‍💻 Pushed **3060** commits.
 
 👐 Opened **41** issues.
 
@@ -16,7 +16,7 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 🌟 Received **27** stars.
 
-👤 Own **26** repositories.
+👤 Own **27** repositories.
 
 🤝 Contributed to **20** public repositories.
 
