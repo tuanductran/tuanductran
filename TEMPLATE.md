@@ -20,6 +20,8 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 🤝 Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
+![Tuan Duc Tran GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanductran\&rank_icon=github)
+
 ## Connect with me
 
 - [Twitter](https://twitter.com/tuanducdesigner)
