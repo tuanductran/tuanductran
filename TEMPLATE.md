@@ -1,28 +1,19 @@
-# About me
+# About Me
 
-Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience in web technologies. I have deep expertise in VueJS and NuxtJS, two popular frameworks for building client-side user interfaces. By applying the core concepts of VueJS and NuxtJS, I can create flexible, interactive, and efficient web applications.
+Greetings! I'm Tran Tuan Duc, a seasoned Front-End developer immersed in the realm of web technologies. My forte lies in VueJS and NuxtJS, where I craft dynamic, responsive, and high-performance web applications by leveraging the core principles of these frameworks.
 
-## Information about my GitHub account
+## GitHub Stats
 
-👶 Account age: **{{ ACCOUNT_AGE }}** years.
+- 👶 **Account Age:** **{{ ACCOUNT_AGE }}** years.
+- 👨‍💻 **Commits:** **{{ COMMITS }}**
+- 👐 **Issues Opened:** **{{ ISSUES }}**
+- ✅ **Pull Requests Submitted:** **{{ PULL_REQUESTS }}**
+- 👀 **Pull Request Reviews:** **{{ CODE_REVIEWS }}**
+- 🌟 **Stars Received:** **{{ STARS }}**
+- 👤 **Own Repositories:** **{{ REPOSITORIES }}**
+- 🤝 **Contributed to Repositories:** **{{ REPOSITORIES_CONTRIBUTED_TO }}**
 
-👨‍💻 Pushed **{{ COMMITS }}** commits.
-
-👐 Opened **{{ ISSUES }}** issues.
-
-✅ Submitted **{{ PULL_REQUESTS }}** pull requests.
-
-👀 Reviewed **{{ CODE_REVIEWS }}** pull requests.
-
-🌟 Received **{{ STARS }}** stars.
-
-👤 Own **{{ REPOSITORIES }}** repositories.
-
-🤝 Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
-![Tuan Duc Tran GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanductran\&rank_icon=github)
-
-## Connect with me
+## Let's Connect
 
 - [Twitter](https://twitter.com/tuanducdesigner)
 - [LinkedIn](https://www.linkedin.com/in/tuanductran)
@@ -30,8 +21,6 @@ Hello, my name is Tran Tuan Duc, a Front-End developer with diverse experience i
 
 ## Skills
 
-Bootstrap, Bulma, CSS, GatsbyJS, Git, HTML, JavaScript, Jekyll, Laravel, Linux, MYSQL, NextJS.
+Proficient in Bootstrap, Bulma, CSS, GatsbyJS, Git, HTML, JavaScript, Jekyll, Laravel, Linux, MYSQL, NextJS, and a plethora of others. The list keeps growing! 😅
 
-A lot more 😅
-
-**Generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
+**Stats proudly generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
