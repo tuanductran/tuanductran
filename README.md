@@ -7,7 +7,7 @@ Greetings! I'm Tran Tuan Duc, a seasoned Front-End developer immersed in the rea
 - 👶 **Account Age:** **3** years.
 - 👨‍💻 **Commits:** **3148**
 - 👐 **Issues Opened:** **41**
-- ✅ **Pull Requests Submitted:** **46**
+- ✅ **Pull Requests Submitted:** **47**
 - 👀 **Pull Request Reviews:** **0**
 - 🌟 **Stars Received:** **29**
 - 👤 **Own Repositories:** **26**
