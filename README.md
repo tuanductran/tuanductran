@@ -5,12 +5,12 @@ Greetings! I'm Tran Tuan Duc, a seasoned Front-End developer immersed in the rea
 ## GitHub Stats
 
 - 👶 **Account Age:** **3** years.
-- 👨‍💻 **Commits:** **4017**
+- 👨‍💻 **Commits:** **4019**
 - 👐 **Issues Opened:** **41**
 - ✅ **Pull Requests Submitted:** **48**
 - 👀 **Pull Request Reviews:** **1**
-- 🌟 **Stars Received:** **32**
-- 👤 **Own Repositories:** **32**
+- 🌟 **Stars Received:** **33**
+- 👤 **Own Repositories:** **33**
 - 🤝 **Contributed to Repositories:** **20**
 
 ## Let's Connect
