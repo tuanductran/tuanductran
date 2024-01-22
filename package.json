@@ -9,6 +9,6 @@
     "prettier": "prettier --write ."
   },
   "devDependencies": {
-    "prettier": "^3.2.2"
+    "prettier": "^3.2.4"
   }
 }
