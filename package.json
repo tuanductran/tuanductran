@@ -2,7 +2,7 @@
   "name": "tuanductran",
   "version": "1.0.0",
   "repository": "https://github.com/tuanductran/tuanductran.git",
-  "author": "Tuan Duc Tran <tuanductran_dev@hotmail.com>",
+  "author": "Tuan Duc Tran <tuanductran.dev@gmail.com>",
   "license": "MIT",
   "packageManager": "pnpm@8.15.1",
   "scripts": {
