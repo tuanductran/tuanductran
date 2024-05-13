@@ -4,7 +4,7 @@
   "repository": "https://github.com/tuanductran/tuanductran.git",
   "author": "Tuan Duc Tran <tuanductran.dev@gmail.com>",
   "license": "MIT",
-  "packageManager": "pnpm@9.1.0",
+  "packageManager": "pnpm@9.1.1",
   "scripts": {
     "prettier": "prettier --write ."
   },
