@@ -9,7 +9,7 @@ Greetings! I'm Tran Tuan Duc, a seasoned Front-End developer immersed in the rea
 - 👐 **Issues Opened:** **41**
 - ✅ **Pull Requests Submitted:** **70**
 - 👀 **Pull Request Reviews:** **2**
-- 🌟 **Stars Received:** **52**
+- 🌟 **Stars Received:** **53**
 - 👤 **Own Repositories:** **56**
 - 🤝 **Contributed to Repositories:** **23**
 
