@@ -2,8 +2,6 @@
 
 I'm a passionate Front-End developer with expertise in Vue.js and Nuxt.js. I leverage these frameworks to build dynamic, responsive, and high-performing web applications.
 
-This rewrite keeps the core message but uses stronger verbs and highlights the specific value you bring with your skills.
-
 ## GitHub Stats
 
 - 👶 **Account Age:** **{{ ACCOUNT_AGE }}** years.
