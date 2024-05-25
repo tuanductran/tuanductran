@@ -1,11 +1,13 @@
 # About Me
 
-Greetings! I'm Tran Tuan Duc, a seasoned Front-End developer immersed in the realm of web technologies. My forte lies in VueJS and NuxtJS, where I craft dynamic, responsive, and high-performance web applications by leveraging the core principles of these frameworks.
+I'm a passionate Front-End developer with expertise in Vue.js and Nuxt.js. I leverage these frameworks to build dynamic, responsive, and high-performing web applications.
+
+This rewrite keeps the core message but uses stronger verbs and highlights the specific value you bring with your skills.
 
 ## GitHub Stats
 
 - 👶 **Account Age:** **3** years.
-- 👨‍💻 **Commits:** **5594**
+- 👨‍💻 **Commits:** **5595**
 - 👐 **Issues Opened:** **41**
 - ✅ **Pull Requests Submitted:** **70**
 - 👀 **Pull Request Reviews:** **2**
