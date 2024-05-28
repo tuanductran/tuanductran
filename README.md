@@ -5,7 +5,7 @@ I'm a passionate Front-End developer with expertise in Vue.js and Nuxt.js. I lev
 ## GitHub Stats
 
 - 👶 **Account Age:** **3** years.
-- 👨‍💻 **Commits:** **5612**
+- 👨‍💻 **Commits:** **5615**
 - 👐 **Issues Opened:** **41**
 - ✅ **Pull Requests Submitted:** **70**
 - 👀 **Pull Request Reviews:** **2**
