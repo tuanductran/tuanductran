@@ -9,7 +9,7 @@ I'm a passionate Front-End developer with expertise in Vue.js and Nuxt.js. I lev
 - 👐 **Issues Opened:** **41**
 - ✅ **Pull Requests Submitted:** **70**
 - 👀 **Pull Request Reviews:** **2**
-- 🌟 **Stars Received:** **53**
+- 🌟 **Stars Received:** **54**
 - 👤 **Own Repositories:** **57**
 - 🤝 **Contributed to Repositories:** **23**
 
