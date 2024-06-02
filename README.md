@@ -1,26 +1,41 @@
-# About Me
+# Greetings!
 
-I'm a passionate Front-End developer with expertise in Vue.js and Nuxt.js. I leverage these frameworks to build dynamic, responsive, and high-performing web applications.
+Welcome to my space! I am Tran Tuan Duc, a dedicated Front-End Developer specializing in Vue.js and Nuxt.js. My passion lies in crafting dynamic, responsive, and high-performance web applications that deliver exceptional user experiences.
 
-## GitHub Stats
+## About Me
 
-- 👶 **Account Age:** **3** years.
-- 👨‍💻 **Commits:** **5633**
-- 👐 **Issues Opened:** **41**
-- ✅ **Pull Requests Submitted:** **70**
-- 👀 **Pull Request Reviews:** **2**
-- 🌟 **Stars Received:** **57**
-- 👤 **Own Repositories:** **58**
-- 🤝 **Contributed to Repositories:** **23**
+```javascript
+const myInfo = {
+  name: 'Tran Tuan Duc',
+  jobTitle: 'Front-End Developer',
+  skills: {
+    core: ['HTML', 'CSS', 'JavaScript'],
+    frameworks: ['Vue.js', 'Nuxt.js'],
+    design: ['Figma', 'Bootstrap', 'Tailwind CSS'],
+    wordpress: ['Elementor', 'Page Builders']
+  },
+  careerObjective: {
+    primary: 'Front-End Development with Vue.js',
+    secondary: 'WordPress Back-End Development'
+  },
+  socialMedia: {
+    twitter: 'tuanducdesigner',
+    linkedin: 'tuanductran',
+    devTo: 'tuanductran',
+    instagram: 'tuanductran.dev'
+  }
+}
+```
 
-## Let's Connect
+## Professional Statistics
 
-- [Twitter](https://twitter.com/tuanducdesigner)
-- [LinkedIn](https://www.linkedin.com/in/tuanductran)
-- [Instagram](https://www.instagram.com/tuanductran.dev)
+- 📅 **Account Age:** **3** years.
+- 💻 **Total Commits:** **5632**
+- 📝 **Issues Opened:** **41**
+- 🚀 **Pull Requests:** **70**
+- 🔍 **Code Reviews:** **2**
+- ⭐ **Stars Received:** **57**
+- 📚 **Repositories Owned:** **57**
+- 🤝 **Repositories Contributed:** **23**
 
-## Skills
-
-Proficient in Bootstrap, Bulma, CSS, GatsbyJS, Git, HTML, JavaScript, Jekyll, Laravel, Linux, MYSQL, NextJS, and a plethora of others. The list keeps growing! 😅
-
-**Stats proudly generated using [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
+**Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
