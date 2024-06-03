@@ -12,7 +12,8 @@ const myInfo = {
     core: ['HTML', 'CSS', 'JavaScript'],
     frameworks: ['Vue.js', 'Nuxt.js'],
     design: ['Figma', 'Bootstrap', 'Tailwind CSS'],
-    wordpress: ['Elementor', 'Page Builders']
+    wordpress: ['Elementor', 'Page Builders'],
+    os: ['Windows', 'Linux', 'macOS']
   },
   careerObjective: {
     primary: 'Front-End Development with Vue.js',
@@ -30,12 +31,20 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **3** years.
-- 💻 **Total Commits:** **5640**
+- 💻 **Total Commits:** **5641**
 - 📝 **Issues Opened:** **41**
 - 🚀 **Pull Requests:** **70**
 - 🔍 **Code Reviews:** **2**
 - ⭐ **Stars Received:** **60**
 - 📚 **Repositories Owned:** **57**
 - 🤝 **Repositories Contributed:** **23**
+
+## Top 5 most used languages across my repositories
+
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B151.2%25)
+![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B120%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117.6%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.7%25)
 
 **Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
