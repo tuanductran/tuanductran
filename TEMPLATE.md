@@ -12,7 +12,8 @@ const myInfo = {
     core: ['HTML', 'CSS', 'JavaScript'],
     frameworks: ['Vue.js', 'Nuxt.js'],
     design: ['Figma', 'Bootstrap', 'Tailwind CSS'],
-    wordpress: ['Elementor', 'Page Builders']
+    wordpress: ['Elementor', 'Page Builders'],
+    os: ['Windows', 'Linux', 'macOS']
   },
   careerObjective: {
     primary: 'Front-End Development with Vue.js',
@@ -37,5 +38,11 @@ const myInfo = {
 - ⭐ **Stars Received:** **{{ STARS }}**
 - 📚 **Repositories Owned:** **{{ REPOSITORIES }}**
 - 🤝 **Repositories Contributed:** **{{ REPOSITORIES_CONTRIBUTED_TO }}**
+
+## Top 5 most used languages across my repositories
+
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 **Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
