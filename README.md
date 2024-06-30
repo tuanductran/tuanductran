@@ -37,7 +37,7 @@ const myInfo = {
 - 🔍 **Code Reviews:** **2**
 - ⭐ **Stars Received:** **64**
 - 📚 **Repositories Owned:** **59**
-- 🤝 **Repositories Contributed:** **23**
+- 🤝 **Repositories Contributed:** **22**
 
 ## Top 5 most used languages across my repositories
 
