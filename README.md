@@ -31,20 +31,20 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **3** years.
-- 💻 **Total Commits:** **5888**
+- 💻 **Total Commits:** **5889**
 - 📝 **Issues Opened:** **41**
 - 🚀 **Pull Requests:** **71**
 - 🔍 **Code Reviews:** **2**
 - ⭐ **Stars Received:** **64**
-- 📚 **Repositories Owned:** **62**
+- 📚 **Repositories Owned:** **64**
 - 🤝 **Repositories Contributed:** **21**
 
 ## Top 5 most used languages across my repositories
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B151.5%25)
-![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B121.4%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116.5%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.3%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B149.1%25)
+![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B120.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B115.7%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B14.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B110%25)
 
 **Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
