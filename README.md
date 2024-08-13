@@ -23,7 +23,7 @@ const myInfo = {
     twitter: 'tuanducdesigner',
     linkedin: 'tuanductran',
     devTo: 'tuanductran',
-    instagram: 'tuanductran.dev'
+    instagram: 'mi.profile.56'
   }
 }
 ```
@@ -31,7 +31,7 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **3** years.
-- 💻 **Total Commits:** **5906**
+- 💻 **Total Commits:** **5907**
 - 📝 **Issues Opened:** **41**
 - 🚀 **Pull Requests:** **71**
 - 🔍 **Code Reviews:** **2**
