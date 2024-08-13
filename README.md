@@ -31,12 +31,12 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **3** years.
-- 💻 **Total Commits:** **5898**
+- 💻 **Total Commits:** **5906**
 - 📝 **Issues Opened:** **41**
 - 🚀 **Pull Requests:** **71**
 - 🔍 **Code Reviews:** **2**
 - ⭐ **Stars Received:** **64**
-- 📚 **Repositories Owned:** **64**
+- 📚 **Repositories Owned:** **65**
 - 🤝 **Repositories Contributed:** **20**
 
 ## Top 5 most used languages across my repositories
