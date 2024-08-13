@@ -23,7 +23,7 @@ const myInfo = {
     twitter: 'tuanducdesigner',
     linkedin: 'tuanductran',
     devTo: 'tuanductran',
-    instagram: 'tuanductran.dev'
+    instagram: 'mi.profile.56'
   }
 }
 ```
