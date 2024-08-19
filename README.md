@@ -31,7 +31,7 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **4** years.
-- 💻 **Total Commits:** **5947**
+- 💻 **Total Commits:** **5971**
 - 📝 **Issues Opened:** **43**
 - 🚀 **Pull Requests:** **71**
 - 🔍 **Code Reviews:** **2**
@@ -45,6 +45,6 @@ const myInfo = {
 ![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B120.4%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B115.7%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B14.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B110%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B19.9%25)
 
 **Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
