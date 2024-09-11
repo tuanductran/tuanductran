@@ -35,7 +35,7 @@ const myInfo = {
 - 📝 **Issues Opened:** **44**
 - 🚀 **Pull Requests:** **71**
 - 🔍 **Code Reviews:** **2**
-- ⭐ **Stars Received:** **63**
+- ⭐ **Stars Received:** **62**
 - 📚 **Repositories Owned:** **65**
 - 🤝 **Repositories Contributed:** **19**
 
