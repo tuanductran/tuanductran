@@ -33,7 +33,7 @@ const myInfo = {
 - 📅 **Account Age:** **4** years.
 - 💻 **Total Commits:** **6141**
 - 📝 **Issues Opened:** **44**
-- 🚀 **Pull Requests:** **72**
+- 🚀 **Pull Requests:** **73**
 - 🔍 **Code Reviews:** **2**
 - ⭐ **Stars Received:** **63**
 - 📚 **Repositories Owned:** **66**
