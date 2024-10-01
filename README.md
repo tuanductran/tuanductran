@@ -2,6 +2,8 @@
 
 Welcome to my space! I am Tran Tuan Duc, a dedicated Front-End Developer specializing in Vue.js and Nuxt.js. My passion lies in crafting dynamic, responsive, and high-performance web applications that deliver exceptional user experiences.
 
+[![Image of https://github.com/tuanductran/profile-view](https://github.com/tuanductran/profile-view/blob/master/svg/profile/badge.svg)](https://github.com/tuanductran/profile-view)
+
 ## About Me
 
 ```javascript
@@ -31,7 +33,7 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **4** years.
-- 💻 **Total Commits:** **6181**
+- 💻 **Total Commits:** **6182**
 - 📝 **Issues Opened:** **44**
 - 🚀 **Pull Requests:** **73**
 - 🔍 **Code Reviews:** **2**
@@ -39,17 +41,10 @@ const myInfo = {
 - 📚 **Repositories Owned:** **66**
 - 🤝 **Repositories Contributed:** **17**
 
-## Top 10 most used languages across my repositories
+## Top 3 most used languages across my repositories
 
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B149.3%25)
 ![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B120.3%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B115.7%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B14.6%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B12.9%25)
-![Blade](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f7523f&message=Blade%EF%B8%B12%25)
-![Vue](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2341b883&message=Vue%EF%B8%B11.8%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.6%25)
-![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B10.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B130.3%25)
 
 **Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
