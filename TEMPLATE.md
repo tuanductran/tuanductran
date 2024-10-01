@@ -2,6 +2,8 @@
 
 Welcome to my space! I am Tran Tuan Duc, a dedicated Front-End Developer specializing in Vue.js and Nuxt.js. My passion lies in crafting dynamic, responsive, and high-performance web applications that deliver exceptional user experiences.
 
+[![Image of https://github.com/tuanductran/profile-view](https://github.com/tuanductran/profile-view/blob/master/svg/profile/badge.svg)](https://github.com/tuanductran/profile-view)
+
 ## About Me
 
 ```javascript
@@ -39,9 +41,9 @@ const myInfo = {
 - 📚 **Repositories Owned:** **{{ REPOSITORIES }}**
 - 🤝 **Repositories Contributed:** **{{ REPOSITORIES_CONTRIBUTED_TO }}**
 
-## Top 10 most used languages across my repositories
+## Top 3 most used languages across my repositories
 
-{{ LANGUAGE_TEMPLATE_START:max=10 }}
+{{ LANGUAGE_TEMPLATE_START:max=3 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
