@@ -33,18 +33,18 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **4** years.
-- 💻 **Total Commits:** **6216**
-- 📝 **Issues Opened:** **44**
-- 🚀 **Pull Requests:** **74**
+- 💻 **Total Commits:** **5830**
+- 📝 **Issues Opened:** **43**
+- 🚀 **Pull Requests:** **64**
 - 🔍 **Code Reviews:** **2**
-- ⭐ **Stars Received:** **64**
+- ⭐ **Stars Received:** **60**
 - 📚 **Repositories Owned:** **68**
 - 🤝 **Repositories Contributed:** **17**
 
 ## Top 3 most used languages across my repositories
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B148.8%25)
-![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B120.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B131%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B148.7%25)
+![MDX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23fcb32c&message=MDX%EF%B8%B120.2%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B130.9%25)
 
 **Statistics are generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
