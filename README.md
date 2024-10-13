@@ -33,7 +33,7 @@ const myInfo = {
 ## Professional Statistics
 
 - 📅 **Account Age:** **4** years.
-- 💻 **Total Commits:** **5995**
+- 💻 **Total Commits:** **6003**
 - 📝 **Issues Opened:** **43**
 - 🚀 **Pull Requests:** **64**
 - 🔍 **Code Reviews:** **2**
