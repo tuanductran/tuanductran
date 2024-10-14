@@ -6,11 +6,11 @@ I’m **Tran Tuan Duc**, a Front-End Developer with a strong focus on **Vue.js**
 
 ## ⚡ Technology Stack
 
-- Core: HTML, CSS, JavaScript.
-- Frameworks: Vue.js, Nuxt.js.
-- Design Tools: Figma, Bootstrap, Tailwind CSS.
-- WordPress: Elementor, Page Builders.
-- Operating Systems: Windows, Linux, macOS.
+- **Core**: HTML, CSS, JavaScript.
+- **Frameworks**: Vue.js, Nuxt.js.
+- **Design Tools**: Figma, Bootstrap, Tailwind CSS.
+- **WordPress**: Elementor, Page Builders.
+- **Operating Systems**: Windows, Linux, macOS.
 
 ## 📊 Professional Stats
 
@@ -29,12 +29,6 @@ I’m **Tran Tuan Duc**, a Front-End Developer with a strong focus on **Vue.js**
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
->> **Statistics generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
-
-## 📈 Career Objectives
-
-My main goal is to excel in front-end development, particularly with **Vue.js** and **Nuxt.js**. However, I am also expanding my skills into **WordPress Back-End Development**. I continuously seek opportunities to work on exciting projects that challenge and grow my abilities in web development.
-
 ## 📱 Connect with Me
 
 Feel free to reach out via any of the following platforms:
@@ -44,3 +38,4 @@ Feel free to reach out via any of the following platforms:
 - Dev.to: @tuanductran
 - Instagram: @ductt.56
 
+> **Statistics generated with [teoxoy/profile-readme-stats](https://github.com/marketplace/actions/profile-readme-stats)**
