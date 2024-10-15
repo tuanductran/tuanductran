@@ -15,13 +15,13 @@ I’m **Tran Tuan Duc**, a Front-End Developer with a strong focus on **Vue.js**
 ## 📊 Professional Stats
 
 - **Account Age:** **4** years.
-- **Total Commits:** **6016**
-- **Issues Opened:** **43**
+- **Total Commits:** **6021**
+- **Issues Opened:** **44**
 - **Pull Requests Merged:** **64**
 - **Code Reviews Conducted:** **2**
 - **Stars Earned:** **64**
 - **Repositories Owned:** **70**
-- **Contributions:** **17** repositories contributed to.
+- **Contributions:** **18** repositories contributed to.
 
 ## 🏆 Most Used Languages
 
