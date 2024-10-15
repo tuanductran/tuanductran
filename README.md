@@ -19,7 +19,7 @@ I’m **Tran Tuan Duc**, a Front-End Developer with a strong focus on **Vue.js**
 - **Issues Opened:** **42**
 - **Pull Requests Merged:** **64**
 - **Code Reviews Conducted:** **2**
-- **Stars Earned:** **63**
+- **Stars Earned:** **61**
 - **Repositories Owned:** **69**
 - **Contributions:** **18** repositories contributed to.
 
