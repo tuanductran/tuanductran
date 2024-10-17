@@ -21,7 +21,7 @@ I’m **Tran Tuan Duc**, a Front-End Developer with a strong focus on **Vue.js**
 - **Code Reviews Conducted:** **2**
 - **Stars Earned:** **61**
 - **Repositories Owned:** **69**
-- **Contributions:** **18** repositories contributed to.
+- **Contributions:** **17** repositories contributed to.
 
 ## 🏆 Most Used Languages
 
