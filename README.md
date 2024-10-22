@@ -4,7 +4,7 @@ I'm a Front-End Developer specializing in **Vue.js** and **Nuxt.js**, with a pas
 
 [![Profile View Badge](https://github.com/tuanductran/profile-view/blob/master/svg/profile/badge.svg)](https://github.com/tuanductran/profile-view)
 
-## ⚡ Tech Stack
+## ⚡ Skills
 
 - **Core Technologies**: HTML, CSS, JavaScript
 - **Frameworks**: Vue.js, Nuxt.js
