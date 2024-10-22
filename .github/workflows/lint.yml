@@ -1,0 +1,41 @@
+name: Lint
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # every 3 hours
+  push:
+    branches:
+      - master
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20]
+
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.12.1
+        with:
+          access_token: ${{ github.token }}
+
+      - name: Checkout Master
+        uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: bun
+
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Lint
+        run: bun lint
+
+      - name: Lint Fix
+        run: bun lint:fix

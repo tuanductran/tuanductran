@@ -1,14 +1,21 @@
 {
   "name": "tuanductran",
   "version": "1.0.0",
-  "repository": "https://github.com/tuanductran/tuanductran.git",
+  "packageManager": "bun@1.0.0",
   "author": "Tuan Duc Tran <tuanductran.dev@gmail.com>",
   "license": "MIT",
-  "packageManager": "pnpm@9.12.2",
+  "repository": "https://github.com/tuanductran/tuanductran.git",
   "scripts": {
-    "prettier": "prettier --write ."
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "preinstall": "npx only-allow bun"
+  },
+  "peerDependencies": {
+    "typescript": "5.5.4"
   },
   "devDependencies": {
-    "prettier": "^3.2.5"
+    "@antfu/eslint-config": "^3.8.0",
+    "eslint": "^9.13.0",
+    "eslint-plugin-format": "^0.1.2"
   }
 }
