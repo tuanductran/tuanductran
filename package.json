@@ -11,7 +11,7 @@
     "preinstall": "npx only-allow bun"
   },
   "peerDependencies": {
-    "typescript": "5.5.4"
+    "typescript": "5.7.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.8.0",
