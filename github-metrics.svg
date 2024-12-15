@@ -220,15 +220,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 304kb of code in 109 edited files across 56 commits</small>
+                <small>estimation from 305kb of code in 110 edited files across 57 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="464.54453520031115" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="464.54453520031115" y="0" width="412.3718397510696" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="876.9163749513808" y="0" width="43.08362504861922" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="505.4952212389381" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="505.4952212389381" y="0" width="375.29486725663713" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="880.7900884955752" y="0" width="39.20991150442478" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -240,9 +240,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>245 lines</div>
-                                <div>6.49 kB</div>
-                                <div>50.49%</div>
+                                <div>269 lines</div>
+                                <div>7.76 kB</div>
+                                <div>54.95%</div>
                             </small>
                         </div>
                     </section>
@@ -257,7 +257,7 @@
                             <small>
                                 <div>116 lines</div>
                                 <div>5.76 kB</div>
-                                <div>44.82%</div>
+                                <div>40.79%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@
                             <small>
                                 <div>21 lines</div>
                                 <div>602 bytes</div>
-                                <div>4.68%</div>
+                                <div>4.26%</div>
                             </small>
                         </div>
                     </section>
@@ -661,7 +661,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.45m out of 220m repositories</span>
+                                    <span class="gh">ranked 1.45m out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -829,7 +829,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 22:20:00 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Dec 2024, 01:26:59 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
