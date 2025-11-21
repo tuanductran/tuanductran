@@ -24,7 +24,7 @@ jobs:
           access_token: ${{ github.token }}
 
       - name: Checkout Master
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
