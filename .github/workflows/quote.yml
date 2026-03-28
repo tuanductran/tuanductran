@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Fetch Random Quote
         id: fetch
@@ -46,7 +46,6 @@ jobs:
             exit 0
           fi
 
-          # Use awk for reliable multi-line replacement
           awk -v block="$BLOCK" '
             /<!-- quote start -->/ { in_block=1; print block; next }
             /<!-- quote end -->/   { in_block=0; next }
