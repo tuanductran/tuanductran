@@ -26,8 +26,8 @@ jobs:
           url: https://tuanductran.xyz/rss.xml
           file: README.md
           max_entry: 5
-          start_flag: '<!-- feed start -->'
-          end_flag: '<!-- feed end -->'
+          start_flag: <!-- feed start -->
+          end_flag: <!-- feed end -->
 
       - name: Commit Changes
         if: steps.feed.outputs.changed == 'true'
