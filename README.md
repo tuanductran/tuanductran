@@ -18,3 +18,13 @@ Feel free to reach out and connect with me on the following platforms:
 
 - [LinkedIn](https://linkedin.com/in/tuanductran)
 - [Instagram](https://www.instagram.com/ductt.56)
+
+## Quote of the Day
+
+<!-- quote start -->
+<!-- quote end -->
+
+## Latest Blog Posts
+
+<!-- feed start -->
+<!-- feed end -->
