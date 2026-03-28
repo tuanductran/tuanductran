@@ -2,15 +2,8 @@ name: Update README with daily quote
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 */12 * * *'  # Runs every 12 hours
   workflow_dispatch:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
-permissions:
-  contents: write
 
 jobs:
   update-quote:
