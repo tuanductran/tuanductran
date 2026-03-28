@@ -1,11 +1,13 @@
 name: Lint
 
 on:
-  schedule:
-    - cron: '0 */3 * * *' # every 3 hours
   push:
     branches:
       - master
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read
@@ -13,17 +15,9 @@ permissions:
 jobs:
   lint:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [20]
 
     steps:
-      - name: Cancel Previous Runs
-        uses: styfle/cancel-workflow-action@0.13.1
-        with:
-          access_token: ${{ github.token }}
-
-      - name: Checkout Master
+      - name: Checkout Repository
         uses: actions/checkout@v6
 
       - name: Setup Bun
@@ -34,6 +28,3 @@ jobs:
 
       - name: Lint
         run: bun lint
-
-      - name: Lint Fix
-        run: bun lint:fix
