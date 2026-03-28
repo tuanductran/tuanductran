@@ -23,8 +23,8 @@ jobs:
         id: feed
         uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://tuanductran.xyz/rss.xml'
-          file: 'README.md'
+          url: https://tuanductran.xyz/rss.xml
+          file: README.md
           max_entry: 5
           start_flag: '<!-- feed start -->'
           end_flag: '<!-- feed end -->'
