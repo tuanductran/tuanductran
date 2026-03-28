@@ -22,6 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
+> My Father Always Told Me That All Businessmen Were Sons Of Bitches, But I Never Believed It Till Now.
+>
+> — **John F. Kennedy**
 <!-- quote end -->
 
 ## Latest Blog Posts
