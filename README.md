@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The death of a thousand worshipers is easier to bear than the death of a scholar who has knowledge of what Allah has permitted and forbidden.
+> Think Of All The Beauty Still Left Around You And Be Happy.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Anne Frank**
 <!-- quote end -->
 
 ## Latest Blog Posts
