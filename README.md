@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Think Of All The Beauty Still Left Around You And Be Happy.
+> Even The Darkest Night Will End And The Sun Will Rise.
 >
-> — **Anne Frank**
+> — **Victor Hugo**
 <!-- quote end -->
 
 ## Latest Blog Posts
