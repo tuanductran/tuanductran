@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Truth. It Is A Beautiful And Terrible Thing, And Must Therefore Be Treated With Great Caution.
+> War is never a lasting solution for any problem.
 >
-> — **J. K. Rowling**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
