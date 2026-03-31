@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Oh writer! An Angel watches over all you write. Make your writing meaningful for it will eventually return to you and you will be questioned about what you wrote.
+> The Truth. It Is A Beautiful And Terrible Thing, And Must Therefore Be Treated With Great Caution.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **J. K. Rowling**
 <!-- quote end -->
 
 ## Latest Blog Posts
