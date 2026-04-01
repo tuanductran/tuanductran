@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Loving one another is half of wisdom.
+> If A Free Society Cannot Help The Many Who Are Poor, It Cannot Save The Few Who Are Rich.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **John F. Kennedy**
 <!-- quote end -->
 
 ## Latest Blog Posts
