@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> War is never a lasting solution for any problem.
+> Loving one another is half of wisdom.
 >
-> — **Abdul Kalam**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
