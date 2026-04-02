@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Pray, And Let God Worry.
+> To Say "I Love You" One Must First Be Able To Say The "I."
 >
-> — **Martin Luther**
+> — **Ayn Rand**
 <!-- quote end -->
 
 ## Latest Blog Posts
