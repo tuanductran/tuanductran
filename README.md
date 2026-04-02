@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If A Free Society Cannot Help The Many Who Are Poor, It Cannot Save The Few Who Are Rich.
+> Pray, And Let God Worry.
 >
-> — **John F. Kennedy**
+> — **Martin Luther**
 <!-- quote end -->
 
 ## Latest Blog Posts
