@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Abstinence from sins is better than seeking help afterwards.
+> I was not created to be occupied by eating delicious foods like tied up cattle.
 >
 > — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
