@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> To Say "I Love You" One Must First Be Able To Say The "I."
+> Abstinence from sins is better than seeking help afterwards.
 >
-> — **Ayn Rand**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
