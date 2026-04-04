@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder.
+> If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion.
 >
-> — **Muhammad Ali**
+> — **Dalai Lama**
 <!-- quote end -->
 
 ## Latest Blog Posts
