@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I was not created to be occupied by eating delicious foods like tied up cattle.
+> I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
