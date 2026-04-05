@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation.
+> If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones.
 >
-> — **Rumi**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
