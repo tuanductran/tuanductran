@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones.
+> All Of Our Dreams Can Come True.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Walt Disney**
 <!-- quote end -->
 
 ## Latest Blog Posts
