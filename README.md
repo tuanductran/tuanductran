@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All Of Our Dreams Can Come True.
+> Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values.
 >
-> — **Walt Disney**
+> — **Ayn Rand**
 <!-- quote end -->
 
 ## Latest Blog Posts
