@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> A moment of patience in a moment of anger prevents a thousand moments of regret.
+> He That Rises Late Must Trot All Day.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
