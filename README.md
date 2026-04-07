@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values.
+> A moment of patience in a moment of anger prevents a thousand moments of regret.
 >
-> — **Ayn Rand**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
