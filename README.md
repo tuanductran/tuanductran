@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He That Rises Late Must Trot All Day.
+> Paintings Have A Life Of Their Own That Derives From The Painter'S Soul.
 >
-> — **Benjamin Franklin**
+> — **Vincent Van Gogh**
 <!-- quote end -->
 
 ## Latest Blog Posts
