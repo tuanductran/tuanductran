@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Paintings Have A Life Of Their Own That Derives From The Painter'S Soul.
+> Patience is the healthiest ingredient of our life.
 >
-> — **Vincent Van Gogh**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
