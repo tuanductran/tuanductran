@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Fiction Is The Truth Inside The Lie.
+> In Order To Succeed, Your Desire For Success Should Be Greater Than Your Fear Of Failure.
 >
-> — **Stephen King**
+> — **Bill Cosby**
 <!-- quote end -->
 
 ## Latest Blog Posts
