@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Patience is the healthiest ingredient of our life.
+> Fiction Is The Truth Inside The Lie.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Stephen King**
 <!-- quote end -->
 
 ## Latest Blog Posts
