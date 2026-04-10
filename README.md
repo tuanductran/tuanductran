@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> In Order To Succeed, Your Desire For Success Should Be Greater Than Your Fear Of Failure.
+> Close your eyes, fall in Love, stay there.
 >
-> — **Bill Cosby**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
