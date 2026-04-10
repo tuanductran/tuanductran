@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Close your eyes, fall in Love, stay there.
+> Don't you know yet? It is your Light that lights the worlds.
 >
 > — **Rumi**
 <!-- quote end -->
