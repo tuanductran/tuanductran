@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Don't you know yet? It is your Light that lights the worlds.
+> The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things.
 >
 > — **Rumi**
 <!-- quote end -->
