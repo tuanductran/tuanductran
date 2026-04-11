@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things.
+> Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind.
 >
-> — **Rumi**
+> — **Abdus Salam**
 <!-- quote end -->
 
 ## Latest Blog Posts
