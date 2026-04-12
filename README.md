@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Do not hate what you do not know, for the greater part of knowledge consists of what you do not know.
+> Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
