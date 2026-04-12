@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind.
+> Do not hate what you do not know, for the greater part of knowledge consists of what you do not know.
 >
-> — **Abdus Salam**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
