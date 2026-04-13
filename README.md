@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level.
+> It is better to listen to a wise enemy than to seek counsel from a foolish friend.
 >
-> — **Abdul Kalam**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
