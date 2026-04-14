@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep!
+> Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World.
 >
-> — **Rumi**
+> — **Walt Disney**
 <!-- quote end -->
 
 ## Latest Blog Posts
