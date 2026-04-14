@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World.
+> The breeze at dawn has secrets to tell you. Don't go back to sleep.
 >
-> — **Walt Disney**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
