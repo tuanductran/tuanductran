@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The breeze at dawn has secrets to tell you. Don't go back to sleep.
+> Youth is not restored by the dyeing of your hair.
 >
-> — **Rumi**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
