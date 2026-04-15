@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Youth is not restored by the dyeing of your hair.
+> No Legacy Is So Rich As Honesty.
 >
-> — **Abu Bakr (R.A)**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
