@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Let Every Eye Negotiate For Itself And Trust No Agent.
+> We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive.
 >
-> — **William Shakespeare**
+> — **Albert Einstein**
 <!-- quote end -->
 
 ## Latest Blog Posts
