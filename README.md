@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> No Legacy Is So Rich As Honesty.
+> I Like A Man Who Grins When He Fights.
 >
-> — **William Shakespeare**
+> — **Winston Churchill**
 <!-- quote end -->
 
 ## Latest Blog Posts
