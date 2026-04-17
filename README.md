@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive.
+> No Legacy Is So Rich As Honesty.
 >
-> — **Albert Einstein**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
