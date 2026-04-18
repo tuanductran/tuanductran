@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Like A Man Who Grins When He Fights.
+> When my title was taken away boxing died.
 >
-> — **Winston Churchill**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
