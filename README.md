@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When my title was taken away boxing died.
+> It Is Easier To Stay Out Than Get Out.
 >
-> — **Muhammad Ali**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
