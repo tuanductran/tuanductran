@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All Great Achievements Require Time.
+> Do not use the sharpness of your speech on your mother who taught you how to speak.
 >
-> — **Maya Angelou**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
