@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> My only fault is that I don't realize how great I really am.
+> It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt.
 >
-> — **Muhammad Ali**
+> — **Abraham Lincoln**
 <!-- quote end -->
 
 ## Latest Blog Posts
