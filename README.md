@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt.
+> It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time.
 >
-> — **Abraham Lincoln**
+> — **Winston Churchill**
 <!-- quote end -->
 
 ## Latest Blog Posts
