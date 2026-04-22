@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time.
+> Every Day, Nay Every Moment, Try To Do Some Good Deed.
 >
-> — **Winston Churchill**
+> — **Abu Bakr**
 <!-- quote end -->
 
 ## Latest Blog Posts
