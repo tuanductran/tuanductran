@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder.
+> The Only Real Progress Lies In Learning To Be Wrong All Alone.
 >
-> — **Salma Hayek**
+> — **Albert Camus**
 <!-- quote end -->
 
 ## Latest Blog Posts
