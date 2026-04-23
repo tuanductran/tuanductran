@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Every Day, Nay Every Moment, Try To Do Some Good Deed.
+> I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder.
 >
-> — **Abu Bakr**
+> — **Salma Hayek**
 <!-- quote end -->
 
 ## Latest Blog Posts
