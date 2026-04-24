@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> No sanction can stand against ignited minds.
+> I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear.
 >
-> — **Abdul Kalam**
+> — **Martin Luther King  Jr.**
 <!-- quote end -->
 
 ## Latest Blog Posts
