@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Only Real Progress Lies In Learning To Be Wrong All Alone.
+> No sanction can stand against ignited minds.
 >
-> — **Albert Camus**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
