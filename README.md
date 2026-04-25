@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Happiness In Intelligent People Is The Rarest Thing I Know.
+> After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb.
 >
-> — **Ernest Hemingway**
+> — **Nelson Mandela**
 <!-- quote end -->
 
 ## Latest Blog Posts
