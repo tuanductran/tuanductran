@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear.
+> Happiness In Intelligent People Is The Rarest Thing I Know.
 >
-> — **Martin Luther King  Jr.**
+> — **Ernest Hemingway**
 <!-- quote end -->
 
 ## Latest Blog Posts
