@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It.
+> Open your arms if you want the Beloved's embrace.
 >
-> — **Victor Hugo**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
