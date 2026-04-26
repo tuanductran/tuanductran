@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb.
+> To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It.
 >
-> — **Nelson Mandela**
+> — **Victor Hugo**
 <!-- quote end -->
 
 ## Latest Blog Posts
