@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Open your arms if you want the Beloved's embrace.
+> Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will.
 >
-> — **Rumi**
+> — **Zig Ziglar**
 <!-- quote end -->
 
 ## Latest Blog Posts
