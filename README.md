@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will.
+> There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness.
 >
-> — **Zig Ziglar**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
