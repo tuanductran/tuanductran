@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> This Is One Small Step For A Man, One Giant Leap For Mankind.
+> What Doesn'T Kill Us Makes Us Stronger.
 >
-> — **Neil Armstrong**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
