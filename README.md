@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> What Doesn'T Kill Us Makes Us Stronger.
+> I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.
 >
-> — **Friedrich Nietzsche**
+> — **Bill Cosby**
 <!-- quote end -->
 
 ## Latest Blog Posts
