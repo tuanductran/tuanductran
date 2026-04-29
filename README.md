@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.
+> He who fears to weep, should learn to be kind to those who weep.
 >
-> — **Bill Cosby**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
