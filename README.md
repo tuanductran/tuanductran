@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who fears to weep, should learn to be kind to those who weep.
+> A Good Conscience Is A Continual Christmas.
 >
-> — **Abu Bakr (R.A)**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
