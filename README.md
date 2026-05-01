@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> To forgive an oppressor is oppression upon the oppressed.
+> Our abode in this world is transitory, our life therein is but a loan, our breaths are numbered and our indolence is manifest.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
