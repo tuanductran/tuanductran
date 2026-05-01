@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Drink! For You Know Not Whence You Came Nor Why: Drink! For You Know Not Why You Go, Nor Where.
+> To forgive an oppressor is oppression upon the oppressed.
 >
-> — **Omar Khayyam**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
