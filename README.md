@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Our abode in this world is transitory, our life therein is but a loan, our breaths are numbered and our indolence is manifest.
+> The vision of the eye is limited; the vision of the heart transcends all barriers of time and space.
 >
-> — **Abu Bakr (R.A)**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
