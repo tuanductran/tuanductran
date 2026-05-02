@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The vision of the eye is limited; the vision of the heart transcends all barriers of time and space.
+> Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Abu Bakr**
 <!-- quote end -->
 
 ## Latest Blog Posts
