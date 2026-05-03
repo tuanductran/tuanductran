@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> To Shipbrokers, Coal Was Black Gold.
+> There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?
 >
-> — **Roald Dahl**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
