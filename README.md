@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse.
+> To Shipbrokers, Coal Was Black Gold.
 >
-> — **Abu Bakr**
+> — **Roald Dahl**
 <!-- quote end -->
 
 ## Latest Blog Posts
