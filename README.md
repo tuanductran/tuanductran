@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle.
+> The most important of your affairs in my view is prayer; whoever prays regularly has protected his faith, but whoever neglects it, is bound to be more negligent in other issues of faith.
 >
-> — **Muhammad Ali**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
