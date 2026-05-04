@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you?
+> Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle.
 >
-> — **Rumi**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
