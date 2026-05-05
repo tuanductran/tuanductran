@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Do Not Impose On Others What You Yourself Do Not Desire.
+> Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing.
 >
-> — **Confucius**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
