@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The most important of your affairs in my view is prayer; whoever prays regularly has protected his faith, but whoever neglects it, is bound to be more negligent in other issues of faith.
+> Do Not Impose On Others What You Yourself Do Not Desire.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Confucius**
 <!-- quote end -->
 
 ## Latest Blog Posts
