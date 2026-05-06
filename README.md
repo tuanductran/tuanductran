@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer.
+> Building capacity dissolves differences. It irons out inequalities.
 >
-> — **Bruce Lee**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
