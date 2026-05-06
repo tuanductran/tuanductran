@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing.
+> A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer.
 >
-> — **Rumi**
+> — **Bruce Lee**
 <!-- quote end -->
 
 ## Latest Blog Posts
