@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Rest but never quit. Even the sun has a sinking spell each evening. But it always rises the next morning. At sunrise, every soul is born again.
+> I Am Always Ready To Learn Although I Do Not Always Like Being Taught.
 >
-> — **Muhammad Ali**
+> — **Winston Churchill**
 <!-- quote end -->
 
 ## Latest Blog Posts
