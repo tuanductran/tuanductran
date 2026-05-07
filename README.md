@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Building capacity dissolves differences. It irons out inequalities.
+> Rest but never quit. Even the sun has a sinking spell each evening. But it always rises the next morning. At sunrise, every soul is born again.
 >
-> — **Abdul Kalam**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
