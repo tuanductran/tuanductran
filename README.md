@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It.
+> It Is Easier To Stay Out Than Get Out.
 >
-> — **David Brinkley**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
