@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Am Always Ready To Learn Although I Do Not Always Like Being Taught.
+> This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It.
 >
-> — **Winston Churchill**
+> — **David Brinkley**
 <!-- quote end -->
 
 ## Latest Blog Posts
