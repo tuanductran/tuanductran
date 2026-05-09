@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words.
+> Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.
 >
-> — **William Shakespeare**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
