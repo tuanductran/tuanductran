@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> It Is Easier To Stay Out Than Get Out.
+> As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words.
 >
-> — **Mark Twain**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
