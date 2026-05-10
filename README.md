@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Good Actions Are A Guard Against The Blows Of Adversity.
+> All Truth Is Simple... Is That Not Doubly A Lie?
 >
-> — **Abu Bakr**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
