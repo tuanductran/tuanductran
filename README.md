@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.
+> Good Actions Are A Guard Against The Blows Of Adversity.
 >
-> — **Abdul Kalam**
+> — **Abu Bakr**
 <!-- quote end -->
 
 ## Latest Blog Posts
