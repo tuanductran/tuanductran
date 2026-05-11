@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All Truth Is Simple... Is That Not Doubly A Lie?
+> If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves.
 >
-> — **Friedrich Nietzsche**
+> — **Thomas A. Edison**
 <!-- quote end -->
 
 ## Latest Blog Posts
