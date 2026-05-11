@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves.
+> No sanction can stand against ignited minds.
 >
-> — **Thomas A. Edison**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
