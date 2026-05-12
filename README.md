@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The word of God is the medicine of the heart.
+> Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
