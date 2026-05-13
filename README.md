@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them.
+> Intense Love Does Not Measure, It Just Gives.
 >
-> — **Abdul Kalam**
+> — **Mother Teresa**
 <!-- quote end -->
 
 ## Latest Blog Posts
