@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin.
+> Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them.
 >
-> — **Muhammad Ali**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
