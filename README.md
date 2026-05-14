@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who becomes a Muslim does so in his own interest.
+> I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark.
 >
-> — **Abu Bakr (R.A)**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
