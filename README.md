@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Intense Love Does Not Measure, It Just Gives.
+> He who becomes a Muslim does so in his own interest.
 >
-> — **Mother Teresa**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
