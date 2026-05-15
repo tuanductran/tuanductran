@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Don't engage your heart in grief over the past or you wont be ready for what is coming.
+> Associating with the wise and the knowledgeable people adds to the prestige of a person.
 >
 > — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
