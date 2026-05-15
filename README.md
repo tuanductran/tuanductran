@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark.
+> Don't engage your heart in grief over the past or you wont be ready for what is coming.
 >
-> — **Muhammad Ali**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
