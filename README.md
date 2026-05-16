@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All is known in the sacredness of silence.
+> If you want to control other people, first control yourself.
 >
-> — **Rumi**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
