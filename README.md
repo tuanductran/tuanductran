@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Associating with the wise and the knowledgeable people adds to the prestige of a person.
+> All is known in the sacredness of silence.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
