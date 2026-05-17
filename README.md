@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If you want to control other people, first control yourself.
+> All Credibility, All Good Conscience, All Evidence Of Truth Come Only From The Senses.
 >
-> — **Abu Bakr (R.A)**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
