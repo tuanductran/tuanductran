@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All Credibility, All Good Conscience, All Evidence Of Truth Come Only From The Senses.
+> He That Composes Himself Is Wiser Than He That Composes A Book.
 >
-> — **Friedrich Nietzsche**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
