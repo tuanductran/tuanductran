@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Champions Keep Playing Until They Get It Right.
+> I am an ordinary man who worked hard to develop the talent I was given.
 >
-> — **Billie Jean King**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
