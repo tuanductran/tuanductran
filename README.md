@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He That Composes Himself Is Wiser Than He That Composes A Book.
+> Champions Keep Playing Until They Get It Right.
 >
-> — **Benjamin Franklin**
+> — **Billie Jean King**
 <!-- quote end -->
 
 ## Latest Blog Posts
