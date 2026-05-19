@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I am an ordinary man who worked hard to develop the talent I was given.
+> The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter.
 >
-> — **Muhammad Ali**
+> — **Paulo Coelho**
 <!-- quote end -->
 
 ## Latest Blog Posts
