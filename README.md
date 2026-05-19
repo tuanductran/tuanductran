@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter.
+> Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm.
 >
-> — **Paulo Coelho**
+> — **Winston Churchill**
 <!-- quote end -->
 
 ## Latest Blog Posts
