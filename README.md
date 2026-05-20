@@ -30,9 +30,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Latest Blog Posts
 
 <!-- feed start -->
+- May 19 - [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)
 - May 17 - [Càng nhiều AI, càng cần UI tốt hơn](https://tuanductran.xyz/posts/cang-nhieu-ai-cang-can-ui-tot-hon)
 - Mar 16 - [Tuyển dụng không chỉ là lấp đầy một vị trí](https://tuanductran.xyz/posts/tuyen-dung-khong-chi-la-lap-day-mot-vi-tri)
 - Jan 17 - [Một workflow đủ dùng, đủ quen và đủ lâu để gắn bó](https://tuanductran.xyz/posts/mot-workflow-du-dung-du-quen-va-du-lau-de-gan-bo)
 - Jan 17 - [Đổi màu giao diện với Preact và TailwindCSS](https://tuanductran.xyz/posts/doi-mau-giao-dien-voi-preact-va-tailwindcss)
-- Dec 21 - [Khái niệm cơ bản về Frontend và Backend](https://tuanductran.xyz/posts/khai-niem-co-ban-ve-frontend-va-backend)
 <!-- feed end -->
