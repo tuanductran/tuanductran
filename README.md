@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are.
+> As you start to walk on the way, the way appears.
 >
-> — **J. K. Rowling**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
