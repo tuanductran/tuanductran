@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm.
+> We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are.
 >
-> — **Winston Churchill**
+> — **J. K. Rowling**
 <!-- quote end -->
 
 ## Latest Blog Posts
