@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Never Do Anything Against Conscience Even If The State Demands It.
+> When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One.
 >
-> — **Albert Einstein**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
