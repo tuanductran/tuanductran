@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> As you start to walk on the way, the way appears.
+> Never Do Anything Against Conscience Even If The State Demands It.
 >
-> — **Rumi**
+> — **Albert Einstein**
 <!-- quote end -->
 
 ## Latest Blog Posts
