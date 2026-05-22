@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Potentially, A Government Is The Most Dangerous Threat To Man'S Rights: It Holds A Legal Monopoly On The Use Of Physical Force Against Legally Disarmed Victims.
+> Authority, power, and wealth do not change a man; they only reveal him.
 >
-> — **Ayn Rand**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
