@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend.
+> Light up the fire of love inside and blaze the thoughts away.
 >
 > — **Rumi**
 <!-- quote end -->
