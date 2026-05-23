@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Authority, power, and wealth do not change a man; they only reveal him.
+> Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
