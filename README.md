@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Light up the fire of love inside and blaze the thoughts away.
+> Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly.
 >
-> — **Rumi**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
