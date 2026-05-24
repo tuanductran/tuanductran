@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Do not let your difficulties fill you with anxiety, after all it is only in the darkest nights that stars shine more brightly.
+> Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
