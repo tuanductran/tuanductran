@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I was not created to be occupied by eating delicious foods like tied up cattle.
+> He who sleeps without offering the night prayer, may he never enjoy a sound sleep.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
