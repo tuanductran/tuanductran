@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing.
+> I was not created to be occupied by eating delicious foods like tied up cattle.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
