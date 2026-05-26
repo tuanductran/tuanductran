@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who sleeps without offering the night prayer, may he never enjoy a sound sleep.
+> Many Foxes Grow Gray But Few Grow Good.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
