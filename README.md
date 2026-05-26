@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Many Foxes Grow Gray But Few Grow Good.
+> Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing.
 >
-> — **Benjamin Franklin**
+> — **Theodore Roosevelt**
 <!-- quote end -->
 
 ## Latest Blog Posts
