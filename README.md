@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing.
+> Fiction Is The Truth Inside The Lie.
 >
-> — **Theodore Roosevelt**
+> — **Stephen King**
 <!-- quote end -->
 
 ## Latest Blog Posts
