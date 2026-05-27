@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Fiction Is The Truth Inside The Lie.
+> At night, I open the window and ask the moon to come and press its face against mine. Breathe into me. Close the language-door and open the love-window. The moon won't use the door, only the window.
 >
-> — **Stephen King**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
