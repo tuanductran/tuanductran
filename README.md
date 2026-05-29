@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Today, India is a nuclear weapons state.
+> Don't grieve. Anything you lose comes round in another form.
 >
-> — **Abdul Kalam**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
