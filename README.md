@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Don't grieve. Anything you lose comes round in another form.
+> No sanction can stand against ignited minds.
 >
-> — **Rumi**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
