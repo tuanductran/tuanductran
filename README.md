@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> No sanction can stand against ignited minds.
+> I'm the greatest, I'm a bad man, and I'm pretty!
 >
-> — **Abdul Kalam**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
