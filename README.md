@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I'm the greatest, I'm a bad man, and I'm pretty!
+> My Religion Is Very Simple. My Religion Is Kindness.
 >
-> — **Muhammad Ali**
+> — **Dalai Lama**
 <!-- quote end -->
 
 ## Latest Blog Posts
