@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> My Religion Is Very Simple. My Religion Is Kindness.
+> Do not hate what you do not know, for the greater part of knowledge consists of what you do not know.
 >
-> — **Dalai Lama**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
