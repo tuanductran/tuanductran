@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> You Drown Not By Falling Into A River, But By Staying Submerged In It.
+> He who is not impressed by sound advice, lacks faith.
 >
-> — **Paulo Coelho**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
