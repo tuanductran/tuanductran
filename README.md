@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Stop learning. Start knowing.
+> You Drown Not By Falling Into A River, But By Staying Submerged In It.
 >
-> — **Rumi**
+> — **Paulo Coelho**
 <!-- quote end -->
 
 ## Latest Blog Posts
