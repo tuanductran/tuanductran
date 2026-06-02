@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift.
+> People Do Not Lack Strength; They Lack Will.
 >
-> — **Albert Einstein**
+> — **Victor Hugo**
 <!-- quote end -->
 
 ## Latest Blog Posts
