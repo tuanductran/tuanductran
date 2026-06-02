@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who is not impressed by sound advice, lacks faith.
+> Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift.
 >
-> — **Abu Bakr (R.A)**
+> — **Albert Einstein**
 <!-- quote end -->
 
 ## Latest Blog Posts
