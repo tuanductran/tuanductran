@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> People Do Not Lack Strength; They Lack Will.
+> Don'T Find Fault, Find A Remedy.
 >
-> — **Victor Hugo**
+> — **Henry Ford**
 <!-- quote end -->
 
 ## Latest Blog Posts
