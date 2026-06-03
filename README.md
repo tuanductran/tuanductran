@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Don'T Find Fault, Find A Remedy.
+> If all you can do is crawl, start crawling.
 >
-> — **Henry Ford**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
