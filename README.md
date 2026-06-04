@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If all you can do is crawl, start crawling.
+> Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful.
 >
-> — **Rumi**
+> — **Albert Camus**
 <!-- quote end -->
 
 ## Latest Blog Posts
