@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful.
+> Seek knowledge and teach it to people. Learn dignity and tranquillity, and be humble towards those from whom you learn knowledge and be humble towards those to whom you teach it, and do not be tyrannical scholar otherwise your knowledge cannot be established because of your tyranny.
 >
-> — **Albert Camus**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
