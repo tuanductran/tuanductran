@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant.
+> When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry.
 >
-> — **Ellen DeGeneres**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
