@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself.
+> Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others.
 >
-> — **Albert Einstein**
+> — **Albert Camus**
 <!-- quote end -->
 
 ## Latest Blog Posts
