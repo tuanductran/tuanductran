@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry.
+> In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself.
 >
-> — **William Shakespeare**
+> — **Albert Einstein**
 <!-- quote end -->
 
 ## Latest Blog Posts
