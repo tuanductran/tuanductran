@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity.
+> Who do you think's better looking people in the north or people in the south?
 >
-> — **John F. Kennedy**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
