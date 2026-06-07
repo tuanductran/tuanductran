@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others.
+> If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity.
 >
-> — **Albert Camus**
+> — **John F. Kennedy**
 <!-- quote end -->
 
 ## Latest Blog Posts
