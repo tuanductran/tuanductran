@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> What you seek is seeking you.
+> Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths.
 >
-> — **Rumi**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
