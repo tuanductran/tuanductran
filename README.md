@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Who do you think's better looking people in the north or people in the south?
+> What you seek is seeking you.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
