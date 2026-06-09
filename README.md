@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action.
+> I don't count my situps. I only start counting once it starts hurting.
 >
-> — **Mother Teresa**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
