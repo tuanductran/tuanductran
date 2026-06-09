@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths.
+> Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action.
 >
-> — **Muhammad Ali**
+> — **Mother Teresa**
 <!-- quote end -->
 
 ## Latest Blog Posts
