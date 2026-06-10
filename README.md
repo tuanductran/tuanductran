@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Lovers don't finally meet somewhere. They're in each other all along.
+> True success is reaching our potential without compromising our values.
 >
-> — **Rumi**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
