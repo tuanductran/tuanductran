@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I don't count my situps. I only start counting once it starts hurting.
+> Lovers don't finally meet somewhere. They're in each other all along.
 >
-> — **Muhammad Ali**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
