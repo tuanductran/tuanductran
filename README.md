@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them.
+> The Price Of Greatness Is Responsibility.
 >
-> — **Abdul Kalam**
+> — **Winston Churchill**
 <!-- quote end -->
 
 ## Latest Blog Posts
