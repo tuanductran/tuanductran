@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Price Of Greatness Is Responsibility.
+> People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives.
 >
-> — **Winston Churchill**
+> — **Theodore Roosevelt**
 <!-- quote end -->
 
 ## Latest Blog Posts
