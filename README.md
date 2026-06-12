@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives.
+> He who sleeps without offering the night prayer, may he never enjoy a sound sleep.
 >
-> — **Theodore Roosevelt**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
