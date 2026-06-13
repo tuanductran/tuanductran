@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Nothing I'Ve Ever Done Has Given Me More Joys And Rewards Than Being A Father To My Children.
+> To forgive an oppressor is oppression upon the oppressed.
 >
-> — **Bill Cosby**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
