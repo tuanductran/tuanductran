@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who sleeps without offering the night prayer, may he never enjoy a sound sleep.
+> Nothing I'Ve Ever Done Has Given Me More Joys And Rewards Than Being A Father To My Children.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Bill Cosby**
 <!-- quote end -->
 
 ## Latest Blog Posts
