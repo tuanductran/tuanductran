@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child.
+> When The Going Gets Weird, The Weird Turn Pro.
 >
-> — **Marie Curie**
+> — **Hunter S. Thompson**
 <!-- quote end -->
 
 ## Latest Blog Posts
