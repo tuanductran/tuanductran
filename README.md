@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> To forgive an oppressor is oppression upon the oppressed.
+> All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Marie Curie**
 <!-- quote end -->
 
 ## Latest Blog Posts
