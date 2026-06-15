@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When The Going Gets Weird, The Weird Turn Pro.
+> I Am The Astronaut Of Boxing. Joe Louis And Dempsey Were Just Jet Pilots. I'M In A World Of My Own.
 >
-> — **Hunter S. Thompson**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
