@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Am The Astronaut Of Boxing. Joe Louis And Dempsey Were Just Jet Pilots. I'M In A World Of My Own.
+> Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe.
 >
 > — **Muhammad Ali**
 <!-- quote end -->
