@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe.
+> Travel brings power and love back into your life.
 >
-> — **Muhammad Ali**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
