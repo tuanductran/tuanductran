@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Travel brings power and love back into your life.
+> What hurts you, blesses you. Darkness is your candle.
 >
 > — **Rumi**
 <!-- quote end -->
