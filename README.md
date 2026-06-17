@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> What hurts you, blesses you. Darkness is your candle.
+> Failure Is A Detour, Not A Dead-End Street.
 >
-> — **Rumi**
+> — **Zig Ziglar**
 <!-- quote end -->
 
 ## Latest Blog Posts
