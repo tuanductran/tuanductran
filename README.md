@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Failure Is A Detour, Not A Dead-End Street.
+> Do not overeat; that invites disease.
 >
-> — **Zig Ziglar**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
