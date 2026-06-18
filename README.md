@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> In the matter of justice, all should be equal in your eyes.
+> If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced.
 >
-> — **Abu Bakr (R.A)**
+> — **Vincent Van Gogh**
 <!-- quote end -->
 
 ## Latest Blog Posts
