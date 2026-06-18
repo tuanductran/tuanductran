@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Do not overeat; that invites disease.
+> In the matter of justice, all should be equal in your eyes.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
