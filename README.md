@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who wins through fraud is not a winner.
+> We Are What We Believe We Are.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **C. S. Lewis**
 <!-- quote end -->
 
 ## Latest Blog Posts
