@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful.
+> Love Is A Fruit In Season At All Times, And Within Reach Of Every Hand.
 >
-> — **Albert Camus**
+> — **Mother Teresa**
 <!-- quote end -->
 
 ## Latest Blog Posts
