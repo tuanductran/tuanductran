@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Think Of All The Beauty Still Left Around You And Be Happy.
+> What Doesn'T Kill Us Makes Us Stronger.
 >
-> — **Anne Frank**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
