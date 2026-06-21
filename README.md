@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Love Is A Fruit In Season At All Times, And Within Reach Of Every Hand.
+> Think Of All The Beauty Still Left Around You And Be Happy.
 >
-> — **Mother Teresa**
+> — **Anne Frank**
 <!-- quote end -->
 
 ## Latest Blog Posts
