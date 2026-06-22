@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors.
+> Stop acting so small. You are the universe in ecstatic motion.
 >
-> — **Confucius**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
