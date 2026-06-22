@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> What Doesn'T Kill Us Makes Us Stronger.
+> Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors.
 >
-> — **Friedrich Nietzsche**
+> — **Confucius**
 <!-- quote end -->
 
 ## Latest Blog Posts
