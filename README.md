@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Stop acting so small. You are the universe in ecstatic motion.
+> Economy forced me to become a vegetarian, but I finally starting liking it.
 >
-> — **Rumi**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
