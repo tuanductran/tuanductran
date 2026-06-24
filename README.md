@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections.
+> Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself.
 >
-> — **Winston Churchill**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
