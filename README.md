@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself.
+> Let'S Pray That The Human Race Never Escapes From Earth To Spread Its Iniquity Elsewhere.
 >
-> — **Rumi**
+> — **C. S. Lewis**
 <!-- quote end -->
 
 ## Latest Blog Posts
