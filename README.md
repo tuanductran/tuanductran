@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There are three signs of a knowledgeable person: knowledge, forbearance and silence.
+> You Cannot Create Experience. You Must Undergo It.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Albert Camus**
 <!-- quote end -->
 
 ## Latest Blog Posts
