@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> You Cannot Create Experience. You Must Undergo It.
+> Those doing soul work, who want the searing truth more than solace or applause, know each other right away. Those who want something else turn and take a seat in another room. Soul-makers find each other's company.
 >
-> — **Albert Camus**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
