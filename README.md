@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Those doing soul work, who want the searing truth more than solace or applause, know each other right away. Those who want something else turn and take a seat in another room. Soul-makers find each other's company.
+> Blessed is he whose own faults keep him from seeing the faults of others.
 >
-> — **Rumi**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
