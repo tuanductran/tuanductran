@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Intellectual Property Has The Shelf Life Of A Banana.
+> Thoughts Are The Shadows Of Our Feelings - Always Darker, Emptier And Simpler.
 >
-> — **Bill Gates**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
