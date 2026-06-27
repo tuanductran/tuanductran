@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Blessed is he whose own faults keep him from seeing the faults of others.
+> Intellectual Property Has The Shelf Life Of A Banana.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Bill Gates**
 <!-- quote end -->
 
 ## Latest Blog Posts
