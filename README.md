@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> A man is hid under his tongue.
+> When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
