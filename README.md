@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Thoughts Are The Shadows Of Our Feelings - Always Darker, Emptier And Simpler.
+> A man is hid under his tongue.
 >
-> — **Friedrich Nietzsche**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
