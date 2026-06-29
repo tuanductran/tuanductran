@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry.
+> He who is not courageous enough to take risks will accomplish nothing in life.
 >
-> — **William Shakespeare**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
