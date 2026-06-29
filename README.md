@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who is not courageous enough to take risks will accomplish nothing in life.
+> I learned that every mortal will taste death. But only some will taste life.
 >
-> — **Muhammad Ali**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
