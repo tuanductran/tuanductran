@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Bear sorrows and calamities patiently, otherwise you will never be happy.
+> Wars Of Nations Are Fought To Change Maps. But Wars Of Poverty Are Fought To Map Change.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
