@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I learned that every mortal will taste death. But only some will taste life.
+> Bear sorrows and calamities patiently, otherwise you will never be happy.
 >
-> — **Rumi**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
