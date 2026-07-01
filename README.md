@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you'd ever imagined. Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
+> Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All.
 >
-> — **Rumi**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
