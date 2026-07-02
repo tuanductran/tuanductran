@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Inside the Great Mystery that is, we don't really own anything. What is this competition we feel then, before we go, one at a time, through the same gate?
+> I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old.
 >
-> — **Rumi**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
