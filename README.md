@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All.
+> Inside the Great Mystery that is, we don't really own anything. What is this competition we feel then, before we go, one at a time, through the same gate?
 >
-> — **Mark Twain**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
