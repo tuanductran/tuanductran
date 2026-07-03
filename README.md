@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Like Slavery And Apartheid, Poverty Is Not Natural. It Is Man-Made And It Can Be Overcome And Eradicated By The Actions Of Human Beings.
+> Mine Is Better Than Ours.
 >
-> — **Nelson Mandela**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
