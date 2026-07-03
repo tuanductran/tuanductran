@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old.
+> Like Slavery And Apartheid, Poverty Is Not Natural. It Is Man-Made And It Can Be Overcome And Eradicated By The Actions Of Human Beings.
 >
-> — **Benjamin Franklin**
+> — **Nelson Mandela**
 <!-- quote end -->
 
 ## Latest Blog Posts
