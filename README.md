@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Mine Is Better Than Ours.
+> We Are All Alike, On The Inside.
 >
-> — **Benjamin Franklin**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
