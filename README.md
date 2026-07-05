@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> One who thinks and reflects develops his foresight and vision.
+> Age is whatever you think it is. You are as old as you think you are.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
