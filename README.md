@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Age is whatever you think it is. You are as old as you think you are.
+> To Improve Is To Change; To Be Perfect Is To Change Often.
 >
-> — **Muhammad Ali**
+> — **Winston Churchill**
 <!-- quote end -->
 
 ## Latest Blog Posts
