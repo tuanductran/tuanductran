@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> To Improve Is To Change; To Be Perfect Is To Change Often.
+> The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him.
 >
-> — **Winston Churchill**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
