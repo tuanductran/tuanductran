@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Surely silence can sometimes be the most eloquent reply.
+> Music Is The Art Of The Prophets And The Gift Of God.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Martin Luther**
 <!-- quote end -->
 
 ## Latest Blog Posts
