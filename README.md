@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Music Is The Art Of The Prophets And The Gift Of God.
+> But Men Are Men; The Best Sometimes Forget.
 >
-> — **Martin Luther**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
