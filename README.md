@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> But Men Are Men; The Best Sometimes Forget.
+> If You Tell The Truth, You Don'T Have To Remember Anything.
 >
-> — **William Shakespeare**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
