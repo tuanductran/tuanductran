@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Courtesy costs nothing, but buys everything.
+> As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
