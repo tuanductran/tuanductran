@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Respond to every call that excites your spirit.
+> God Helps Those Who Help Themselves.
 >
-> — **Rumi**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
