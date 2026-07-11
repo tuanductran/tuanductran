@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Two Great European Narcotics, Alcohol And Christianity.
+> When setting out on a journey do not seek advice from someone who never left home.
 >
-> — **Friedrich Nietzsche**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
