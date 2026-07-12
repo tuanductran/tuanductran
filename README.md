@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Failure Is Not The Opposite Of Success; It'S Part Of Success.
+> When we practice loving kindness and compassion we are the first ones to profit.
 >
-> — **Arianna Huffington**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
