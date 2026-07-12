@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When setting out on a journey do not seek advice from someone who never left home.
+> Failure Is Not The Opposite Of Success; It'S Part Of Success.
 >
-> — **Rumi**
+> — **Arianna Huffington**
 <!-- quote end -->
 
 ## Latest Blog Posts
