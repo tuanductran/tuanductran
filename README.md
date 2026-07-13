@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Move, but don't move the way fear makes you move.
+> As We Express Our Gratitude, We Must Never Forget That The Highest Appreciation Is Not To Utter Words, But To Live By Them.
 >
-> — **Rumi**
+> — **John F. Kennedy**
 <!-- quote end -->
 
 ## Latest Blog Posts
