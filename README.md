@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When we practice loving kindness and compassion we are the first ones to profit.
+> Move, but don't move the way fear makes you move.
 >
 > — **Rumi**
 <!-- quote end -->
