@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> As We Express Our Gratitude, We Must Never Forget That The Highest Appreciation Is Not To Utter Words, But To Live By Them.
+> Whoever knocks persistently, ends by entering.
 >
-> — **John F. Kennedy**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
