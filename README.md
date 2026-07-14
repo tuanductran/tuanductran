@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Whoever knocks persistently, ends by entering.
+> It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.
 >
 > — **Muhammad Ali**
 <!-- quote end -->
