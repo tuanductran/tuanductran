@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Love is the bridge between you and everything.
+> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
 >
-> — **Rumi**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
