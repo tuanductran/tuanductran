@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> A Riot Is At Bottom The Language Of The Unheard.
+> For The Woman, The Man Is A Means: The End Is Always The Child.
 >
-> — **Martin Luther King, Jr.**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
