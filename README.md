@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> A Riot Is At Bottom The Language Of The Unheard.
 >
-> — **Muhammad Ali**
+> — **Martin Luther King, Jr.**
 <!-- quote end -->
 
 ## Latest Blog Posts
