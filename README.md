@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Your heart knows the way. Run in that direction.
+> All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child.
 >
-> — **Rumi**
+> — **Marie Curie**
 <!-- quote end -->
 
 ## Latest Blog Posts
