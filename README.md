@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> For The Woman, The Man Is A Means: The End Is Always The Child.
+> Your heart knows the way. Run in that direction.
 >
-> — **Friedrich Nietzsche**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
