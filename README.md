@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child.
+> In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art.
 >
-> — **Marie Curie**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
