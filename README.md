@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art.
+> You Are Not Only Responsible For What You Say, But Also For What You Do Not Say.
 >
-> — **Rumi**
+> — **Martin Luther**
 <!-- quote end -->
 
 ## Latest Blog Posts
