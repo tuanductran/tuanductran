@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There is greatness in the fear of God, contentment in faith of God, and honour in humility.
+> Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It.
 >
-> — **Abu Bakr (R.A)**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
