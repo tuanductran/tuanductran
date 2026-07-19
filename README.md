@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> You Are Not Only Responsible For What You Say, But Also For What You Do Not Say.
+> There is greatness in the fear of God, contentment in faith of God, and honour in humility.
 >
-> — **Martin Luther**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
