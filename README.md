@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If You Can'T Make It Good, At Least Make It Look Good.
+> The only lasting beauty is the beauty of the heart.
 >
-> — **Bill Gates**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
