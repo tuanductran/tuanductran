@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It.
+> If You Can'T Make It Good, At Least Make It Look Good.
 >
-> — **Friedrich Nietzsche**
+> — **Bill Gates**
 <!-- quote end -->
 
 ## Latest Blog Posts
