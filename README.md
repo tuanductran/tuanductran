@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The only lasting beauty is the beauty of the heart.
+> As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him.
 >
-> — **Rumi**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
