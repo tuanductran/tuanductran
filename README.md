@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Whoever knocks persistently, ends by entering.
+> I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday.
 >
-> — **Muhammad Ali**
+> — **Abraham Lincoln**
 <!-- quote end -->
 
 ## Latest Blog Posts
