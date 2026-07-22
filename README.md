@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow.
+> Whoever knocks persistently, ends by entering.
 >
-> — **Benjamin Franklin**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
