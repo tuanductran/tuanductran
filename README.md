@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday.
+> There is nothing outside of yourself, look within. Everything you want is there. You are That.
 >
-> — **Abraham Lincoln**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
