@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There is nothing outside of yourself, look within. Everything you want is there. You are That.
+> Kindness Is The Language Which The Deaf Can Hear And The Blind Can See.
 >
-> — **Rumi**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
