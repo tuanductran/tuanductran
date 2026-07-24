@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation.
+> The Public Is Merely A Multiplied "Me."
 >
-> — **Muhammad Ali**
+> — **Mark Twain**
 <!-- quote end -->
 
 ## Latest Blog Posts
