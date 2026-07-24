@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Kindness Is The Language Which The Deaf Can Hear And The Blind Can See.
+> Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation.
 >
-> — **Mark Twain**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
