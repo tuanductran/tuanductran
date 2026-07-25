@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Public Is Merely A Multiplied "Me."
+> The highest person is he who is of most use to humankind.
 >
-> — **Mark Twain**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
