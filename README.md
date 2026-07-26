@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest.
+> The Only Real Progress Lies In Learning To Be Wrong All Alone.
 >
-> — **Benjamin Franklin**
+> — **Albert Camus**
 <!-- quote end -->
 
 ## Latest Blog Posts
