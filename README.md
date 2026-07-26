@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> We Make War That We May Live In Peace.
+> Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest.
 >
-> — **Aristotle**
+> — **Benjamin Franklin**
 <!-- quote end -->
 
 ## Latest Blog Posts
