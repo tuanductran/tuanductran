@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Allah Will Help Him Who Moves In The Way Of Allah.
+> Dislike in yourself what you dislike in others.
 >
-> — **Abu Bakr**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
