@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Only Real Progress Lies In Learning To Be Wrong All Alone.
+> Allah Will Help Him Who Moves In The Way Of Allah.
 >
-> — **Albert Camus**
+> — **Abu Bakr**
 <!-- quote end -->
 
 ## Latest Blog Posts
