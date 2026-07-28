@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Dislike in yourself what you dislike in others.
+> You have to keep breaking your heart until it opens.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
