@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> You have to keep breaking your heart until it opens.
+> He who becomes a Muslim does so in his own interest.
 >
-> — **Rumi**
+> — **Abu Bakr (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
