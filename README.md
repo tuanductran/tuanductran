@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> He who becomes a Muslim does so in his own interest.
+> The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders.
 >
-> — **Abu Bakr (R.A)**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
