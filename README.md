@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If Your Eyes Are Opened, You'll See The Things Worth Seeing.
+> The chess master says nothing, other than moving the silent chess piece.
 >
 > — **Rumi**
 <!-- quote end -->
