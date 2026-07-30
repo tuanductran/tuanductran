@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There is one way of breathing that is shameful and constricted. Then, there's another way: a breath of love that takes you all the way to infinity.
+> If Your Eyes Are Opened, You'll See The Things Worth Seeing.
 >
 > — **Rumi**
 <!-- quote end -->
