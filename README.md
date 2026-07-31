@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice.
+> Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed.
 >
-> — **Bill Cosby**
+> — **Ali Ibn Abi Talib**
 <!-- quote end -->
 
 ## Latest Blog Posts
