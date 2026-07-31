@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The chess master says nothing, other than moving the silent chess piece.
+> A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice.
 >
-> — **Rumi**
+> — **Bill Cosby**
 <!-- quote end -->
 
 ## Latest Blog Posts
