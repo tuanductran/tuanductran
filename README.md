@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed.
+> Building capacity dissolves differences. It irons out inequalities.
 >
-> — **Ali Ibn Abi Talib**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
