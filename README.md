@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Building capacity dissolves differences. It irons out inequalities.
+> Study me as much as you like, you will not know me, for I differ in a hundred ways from what you see me to be. Put yourself behind my eyes and see me as I see myself, for I have chosen to dwell in a place you cannot see.
 >
-> — **Abdul Kalam**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
