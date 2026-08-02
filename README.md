@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Study me as much as you like, you will not know me, for I differ in a hundred ways from what you see me to be. Put yourself behind my eyes and see me as I see myself, for I have chosen to dwell in a place you cannot see.
+> People's hearts are like wild animals. They attach their selves to those that love and train them.
 >
-> — **Rumi**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
