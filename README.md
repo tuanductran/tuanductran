@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Lovely days don't come to you, you should walk to them.
+> I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields.
 >
-> — **Rumi**
+> — **Willie Nelson**
 <!-- quote end -->
 
 ## Latest Blog Posts
