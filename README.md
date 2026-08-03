@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields.
+> Intense Love Does Not Measure, It Just Gives.
 >
-> — **Willie Nelson**
+> — **Mother Teresa**
 <!-- quote end -->
 
 ## Latest Blog Posts
