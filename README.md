@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Intense Love Does Not Measure, It Just Gives.
+> People are of two types, they are either your brothers in faith or your equals in humanity.
 >
-> — **Mother Teresa**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
