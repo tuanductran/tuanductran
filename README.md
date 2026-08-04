@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> People are of two types, they are either your brothers in faith or your equals in humanity.
+> Heart is a sea, language is the shore. Whatever is in a sea hits the shore.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
