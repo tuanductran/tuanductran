@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> It's not bragging if you can back it up.
+> Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth.
 >
-> — **Muhammad Ali**
+> — **Ayn Rand**
 <!-- quote end -->
 
 ## Latest Blog Posts
