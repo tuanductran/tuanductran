@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth.
+> I Don'T Know Who My Grandfather Was; I Am Much More Concerned To Know What His Grandson Will Be.
 >
-> — **Ayn Rand**
+> — **Abraham Lincoln**
 <!-- quote end -->
 
 ## Latest Blog Posts
