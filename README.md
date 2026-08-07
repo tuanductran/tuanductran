@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> You show your worth by what you seek.
+> There Cannot Be A God Because If There Were One, I Could Not Believe That I Was Not He.
 >
-> — **Rumi**
+> — **Friedrich Nietzsche**
 <!-- quote end -->
 
 ## Latest Blog Posts
