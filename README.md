@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There Cannot Be A God Because If There Were One, I Could Not Believe That I Was Not He.
+> When the world pushes you to your knees, you're in the perfect position to pray.
 >
-> — **Friedrich Nietzsche**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
