@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When the world pushes you to your knees, you're in the perfect position to pray.
+> I say get an education. Become an electrician, a mechanic, a doctor, a lawyer, anything but a fighter. In this trade, it's the managers that make the money and last the longest.
 >
-> — **Rumi**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
