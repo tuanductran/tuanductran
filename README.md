@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I say get an education. Become an electrician, a mechanic, a doctor, a lawyer, anything but a fighter. In this trade, it's the managers that make the money and last the longest.
+> It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen.
 >
 > — **Muhammad Ali**
 <!-- quote end -->
