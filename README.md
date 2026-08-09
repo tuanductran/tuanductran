@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen.
+> Whatever purifies you is the right path, I will not try to define it.
 >
-> — **Muhammad Ali**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
