@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There Is More Treasure In Books Than In All The Pirate'S Loot On Treasure Island.
+> I Am Enough Of An Artist To Draw Freely Upon My Imagination.
 >
-> — **Walt Disney**
+> — **Albert Einstein**
 <!-- quote end -->
 
 ## Latest Blog Posts
