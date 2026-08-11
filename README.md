@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> We Make A Living By What We Get, But We Make A Life By What We Give.
+> There Is More Treasure In Books Than In All The Pirate'S Loot On Treasure Island.
 >
-> — **Winston Churchill**
+> — **Walt Disney**
 <!-- quote end -->
 
 ## Latest Blog Posts
