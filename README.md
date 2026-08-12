@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Am Enough Of An Artist To Draw Freely Upon My Imagination.
+> The Time Is Always Right To Do What Is Right.
 >
-> — **Albert Einstein**
+> — **Martin Luther King  Jr.**
 <!-- quote end -->
 
 ## Latest Blog Posts
