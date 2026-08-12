@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Time Is Always Right To Do What Is Right.
+> Allah's Generosity is connected to gratitude, and gratitude is linked to increase in His generosity. The generosity of Allah will not stop increasing unless the gratitude of the servant ceases.
 >
-> — **Martin Luther King  Jr.**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
