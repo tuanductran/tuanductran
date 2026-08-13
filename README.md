@@ -22,7 +22,7 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Live everyday as if it were your last because someday you're going to be right.
+> There comes a time in every person's life when he has to choose the course his life will take.
 >
 > — **Muhammad Ali**
 <!-- quote end -->
