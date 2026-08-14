@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There comes a time in every person's life when he has to choose the course his life will take.
+> The Secret To Humor Is Surprise.
 >
-> — **Muhammad Ali**
+> — **Aristotle**
 <!-- quote end -->
 
 ## Latest Blog Posts
