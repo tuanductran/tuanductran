@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> The Secret To Humor Is Surprise.
+> I Dream Of An Africa Which Is In Peace With Itself.
 >
-> — **Aristotle**
+> — **Nelson Mandela**
 <!-- quote end -->
 
 ## Latest Blog Posts
