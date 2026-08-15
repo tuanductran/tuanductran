@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Dream Of An Africa Which Is In Peace With Itself.
+> Set your life on fire. Seek those who fan your flames.
 >
-> — **Nelson Mandela**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
