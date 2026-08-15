@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Set your life on fire. Seek those who fan your flames.
+> Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side.
 >
-> — **Rumi**
+> — **Zig Ziglar**
 <!-- quote end -->
 
 ## Latest Blog Posts
