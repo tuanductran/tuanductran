@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Burdens are the foundations of ease and bitter things the forerunners of pleasure.
+> Life is a difficult game. You can win it only by retaining your birthright to be a person.
 >
-> — **Rumi**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
