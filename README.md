@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side.
+> Burdens are the foundations of ease and bitter things the forerunners of pleasure.
 >
-> — **Zig Ziglar**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
