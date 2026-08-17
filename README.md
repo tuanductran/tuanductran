@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Life is a difficult game. You can win it only by retaining your birthright to be a person.
+> There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil.
 >
-> — **Abdul Kalam**
+> — **Ayn Rand**
 <!-- quote end -->
 
 ## Latest Blog Posts
