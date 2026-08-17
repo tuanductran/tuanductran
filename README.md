@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil.
+> If Allah wants for a people ill, he gives them debates and takes away from them actions.
 >
-> — **Ayn Rand**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
