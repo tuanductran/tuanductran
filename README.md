@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness.
+> Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others.
 >
-> — **Friedrich Nietzsche**
+> — **John F. Kennedy**
 <!-- quote end -->
 
 ## Latest Blog Posts
