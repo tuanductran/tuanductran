@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I Was Not Created To Be Occupied By Eating Delicious Foods Like Tied Up Cattle.
+> God forbid, men should be jealous of knowledge as they are jealous of women.
 >
-> — **Ali Ibn Abi Talib**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
