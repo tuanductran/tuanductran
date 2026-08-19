@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others.
+> I Was Not Created To Be Occupied By Eating Delicious Foods Like Tied Up Cattle.
 >
-> — **John F. Kennedy**
+> — **Ali Ibn Abi Talib**
 <!-- quote end -->
 
 ## Latest Blog Posts
