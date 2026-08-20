@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Silence is the best reply to a fool.
+> If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Henry Ford**
 <!-- quote end -->
 
 ## Latest Blog Posts
