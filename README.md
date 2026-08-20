@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> God forbid, men should be jealous of knowledge as they are jealous of women.
+> Silence is the best reply to a fool.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
