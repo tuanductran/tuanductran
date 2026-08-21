@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself.
+> There is one way of breathing that is shameful and constricted. Then, there's another way: a breath of love that takes you all the way to infinity.
 >
-> — **Henry Ford**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
