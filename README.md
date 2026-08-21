@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> There is one way of breathing that is shameful and constricted. Then, there's another way: a breath of love that takes you all the way to infinity.
+> It's hard to be humble when you're as great as I am.
 >
-> — **Rumi**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
