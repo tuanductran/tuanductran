@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> It's hard to be humble when you're as great as I am.
+> Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd.
 >
-> — **Muhammad Ali**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
