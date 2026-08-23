@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I grow silent. Dear soul, you speak.
+> You Cannot Create Experience. You Must Undergo It.
 >
-> — **Rumi**
+> — **Albert Camus**
 <!-- quote end -->
 
 ## Latest Blog Posts
