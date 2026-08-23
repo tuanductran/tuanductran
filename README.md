@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> I wonder at a man who loses hope of salvation when the door of repentance is open for him.
+> I grow silent. Dear soul, you speak.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
