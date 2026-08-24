@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> God Doesn'T Require Us To Succeed, He Only Requires That You Try.
+> I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him.
 >
-> — **Mother Teresa**
+> — **Abraham Lincoln**
 <!-- quote end -->
 
 ## Latest Blog Posts
