@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> You Cannot Create Experience. You Must Undergo It.
+> God Doesn'T Require Us To Succeed, He Only Requires That You Try.
 >
-> — **Albert Camus**
+> — **Mother Teresa**
 <!-- quote end -->
 
 ## Latest Blog Posts
