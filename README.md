@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Bear sorrows and calamities patiently, otherwise you will never be happy.
+> Hesitation Increases In Relation To Risk In Equal Proportion To Age.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Ernest Hemingway**
 <!-- quote end -->
 
 ## Latest Blog Posts
