@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Hesitation Increases In Relation To Risk In Equal Proportion To Age.
+> Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?
 >
-> — **Ernest Hemingway**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
