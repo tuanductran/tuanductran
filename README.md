@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?
+> We must think and act like a nation of a billion people and not like that of a million people. Dream, dream, dream!
 >
-> — **William Shakespeare**
+> — **Abdul Kalam**
 <!-- quote end -->
 
 ## Latest Blog Posts
