@@ -30,9 +30,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Latest Blog Posts
 
 <!-- feed start -->
+- Aug 27 - [Vue 3 với TypeScript: Xây dựng Component và Composable Type-safe](https://tuanductran.xyz/posts/vue-3-voi-typescript-composition-api)
+- Aug 27 - [TypeScript Toolchain hiện đại: Strict Compiler, Linting, Testing và Build nhanh](https://tuanductran.xyz/posts/typescript-toolchain-hien-dai)
+- Aug 27 - [Design Pattern nâng cao trong TypeScript: Thiết kế hệ thống linh hoạt và an toàn về kiểu](https://tuanductran.xyz/posts/design-patterns-nang-cao-trong-typescript)
+- Aug 27 - [Clean Code với TypeScript: Nguyên tắc thiết kế mã rõ ràng, an toàn và dễ bảo trì](https://tuanductran.xyz/posts/clean-code-voi-typescript)
 - May 19 - [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)
-- May 17 - [Càng nhiều AI, càng cần UI tốt hơn](https://tuanductran.xyz/posts/cang-nhieu-ai-cang-can-ui-tot-hon)
-- Mar 16 - [Tuyển dụng không chỉ là lấp đầy một vị trí](https://tuanductran.xyz/posts/tuyen-dung-khong-chi-la-lap-day-mot-vi-tri)
-- Jan 17 - [Một workflow đủ dùng, đủ quen và đủ lâu để gắn bó](https://tuanductran.xyz/posts/mot-workflow-du-dung-du-quen-va-du-lau-de-gan-bo)
-- Jan 17 - [Đổi màu giao diện với Preact và TailwindCSS](https://tuanductran.xyz/posts/doi-mau-giao-dien-voi-preact-va-tailwindcss)
 <!-- feed end -->
