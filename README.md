@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me.
+> Things Won Are Done, Joy'S Soul Lies In The Doing.
 >
-> — **Steve Jobs**
+> — **William Shakespeare**
 <!-- quote end -->
 
 ## Latest Blog Posts
