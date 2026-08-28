@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place.
+> When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion.
 >
-> — **C. S. Lewis**
+> — **Abraham Lincoln**
 <!-- quote end -->
 
 ## Latest Blog Posts
