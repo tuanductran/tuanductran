@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Things Won Are Done, Joy'S Soul Lies In The Doing.
+> When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place.
 >
-> — **William Shakespeare**
+> — **C. S. Lewis**
 <!-- quote end -->
 
 ## Latest Blog Posts
