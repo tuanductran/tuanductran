@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When I Do Good, I Feel Good. When I Do Bad, I Feel Bad. That'S My Religion.
+> I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.
 >
-> — **Abraham Lincoln**
+> — **Bill Cosby**
 <!-- quote end -->
 
 ## Latest Blog Posts
