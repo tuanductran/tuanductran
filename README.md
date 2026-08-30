@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> A friend cannot be considered a friend until he is tested in three occasions: in timeof need, behind your back, and after your death.
+> Be soulful. Be kind. Be in love.
 >
-> — **Ali ibn Abi Talib (R.A)**
+> — **Rumi**
 <!-- quote end -->
 
 ## Latest Blog Posts
