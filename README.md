@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Don't forget your own self while preaching to others.
+> A friend cannot be considered a friend until he is tested in three occasions: in timeof need, behind your back, and after your death.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Ali ibn Abi Talib (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
