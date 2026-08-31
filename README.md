@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Don’T Let The Noise Of Others’ Opinions Drown Out Your Own Inner Voice.
+> My wealth is in my knowledge of self, love, and spirituality.
 >
-> — **Steve Jobs**
+> — **Muhammad Ali**
 <!-- quote end -->
 
 ## Latest Blog Posts
