@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> Be soulful. Be kind. Be in love.
+> Don’T Let The Noise Of Others’ Opinions Drown Out Your Own Inner Voice.
 >
-> — **Rumi**
+> — **Steve Jobs**
 <!-- quote end -->
 
 ## Latest Blog Posts
