@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> My wealth is in my knowledge of self, love, and spirituality.
+> When you do not know of a thing say so plainly.
 >
-> — **Muhammad Ali**
+> — **Umar ibn Al-Khattāb (R.A)**
 <!-- quote end -->
 
 ## Latest Blog Posts
