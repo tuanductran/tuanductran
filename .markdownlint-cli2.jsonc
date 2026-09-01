@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint-cli2/main/schema/markdownlint-cli2-config-schema.json",
+  "config": {
+    "default": true,
+    // README.md is a single-paragraph, badge-and-table generated profile
+    // page (see src/build-readme.ts); long lines and inline HTML
+    // (<table>, <td>, badge images) are intentional, and the file doesn't
+    // open with a top-level heading.
+    "MD013": false,
+    "MD033": false,
+    "MD041": false
+  },
+  "globs": ["README.md"]
+}

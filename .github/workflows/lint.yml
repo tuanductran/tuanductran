@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  pull_request:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -15,6 +16,7 @@ permissions:
 jobs:
   lint:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout Repository
@@ -24,7 +26,16 @@ jobs:
         uses: oven-sh/setup-bun@v2.2.0
 
       - name: Install Dependencies
-        run: bun install
+        run: bun install --frozen-lockfile
 
       - name: Lint
         run: bun lint
+
+      - name: Lint Markdown
+        run: bun run lint:md
+
+      - name: Typecheck
+        run: bun run typecheck
+
+      - name: Test
+        run: bun test

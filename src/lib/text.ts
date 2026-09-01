@@ -43,22 +43,3 @@ export function truncateMiddle(
   const rightLen = Math.floor(keepLen / 2)
   return `${normalized.slice(0, leftLen)}${ellipsis}${normalized.slice(normalized.length - rightLen)}`
 }
-
-/**
- * Replace the content between `<!-- {marker} starts -->` and
- * `<!-- {marker} ends -->` with `chunk`. When `inline` is false, the chunk
- * is wrapped on its own lines, matching the Python `replace_chunk`.
- */
-export function replaceChunk(
-  content: string,
-  marker: string,
-  chunk: string,
-  inline = false,
-): string {
-  const pattern = new RegExp(
-    `<!-- ${marker} starts -->[\\s\\S]*<!-- ${marker} ends -->`,
-  )
-  const body = inline ? chunk : `\n${chunk}\n`
-  const replacement = `<!-- ${marker} starts -->${body}<!-- ${marker} ends -->`
-  return content.replace(pattern, replacement)
-}

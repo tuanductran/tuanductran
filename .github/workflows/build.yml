@@ -17,6 +17,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v7.0.1
@@ -33,12 +34,15 @@ jobs:
         run: bun test
 
       - name: Typecheck
-        run: bun x tsc --noEmit
+        run: bun run typecheck
 
       - name: Build README
         run: bun run build
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Lint Markdown
+        run: bun run lint:md
 
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v7.2.0
