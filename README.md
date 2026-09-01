@@ -22,9 +22,9 @@ Feel free to reach out and connect with me on the following platforms:
 ## Quote of the Day
 
 <!-- quote start -->
-> When you do not know of a thing say so plainly.
+> No One Would Choose A Friendless Existence On Condition Of Having All The Other Things In The World.
 >
-> — **Umar ibn Al-Khattāb (R.A)**
+> — **Aristotle**
 <!-- quote end -->
 
 ## Latest Blog Posts
