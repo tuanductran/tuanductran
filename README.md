@@ -17,6 +17,16 @@ Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js
 | [soulmap-ai v0.11.0](https://github.com/tuanductran/soulmap-ai/releases/tag/v0.11.0) | 2026-09-02 |
 | [hr-skills v1.4.0](https://github.com/tuanductran/hr-skills/releases/tag/v1.4.0)     | 2026-08-15 |
 
+## Top Repositories
+
+| Repository                                                        | Stars |
+| ----------------------------------------------------------------- | ----- |
+| [hr-skills](https://github.com/tuanductran/hr-skills)             | 54    |
+| [todo-list-react](https://github.com/tuanductran/todo-list-react) | 15    |
+| [tuanductran](https://github.com/tuanductran/tuanductran)         | 13    |
+| [download-repos](https://github.com/tuanductran/download-repos)   | 7     |
+| [nextdns-skills](https://github.com/tuanductran/nextdns-skills)   | 5     |
+
 ## Recent Posts
 
 | Post                                                                                                                        | Published  |
