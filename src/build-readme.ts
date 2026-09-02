@@ -4,7 +4,6 @@ import Mustache from 'mustache'
 
 import { fetchFeedEntries, renderFeedEntries } from './lib/feed'
 import {
-  extractCurrentStats,
   fetchGithubStats,
   fetchReleases,
   formatStats,
@@ -28,25 +27,19 @@ const POST_COUNT = 5
 // release titles or post titles that happen to contain those characters.
 Mustache.escape = (text: string) => text
 
-async function readFallbackStats() {
-  try {
-    const existingReadme = await Bun.file(README_PATH).text()
-    return extractCurrentStats(existingReadme)
-  }
-  catch {
-    return { followers: 0, stars: 0, forks: 0 }
-  }
-}
-
 async function main() {
   const token = process.env.GH_TOKEN ?? process.env.GITHUB_TOKEN ?? ''
   const octokit = createOctokit(token || undefined)
 
-  const fallbackStats = await readFallbackStats()
-
+  // fetchReleases/fetchGithubStats intentionally throw on a top-level API
+  // failure (see their doc comments) instead of silently degrading, so a
+  // rejection here must abort *before* README.md is touched — the commit
+  // already on disk stays as the last known-good output, and `main().catch`
+  // below fails the CI step instead of letting git-auto-commit-action push
+  // a degraded README.
   const [releases, stats, posts] = await Promise.all([
-    fetchReleases(octokit),
-    fetchGithubStats(octokit, fallbackStats),
+    fetchReleases(octokit, GITHUB_OWNER),
+    fetchGithubStats(octokit, GITHUB_OWNER),
     fetchFeedEntries(BLOG_RSS_URL, POST_COUNT),
   ])
 
