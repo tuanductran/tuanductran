@@ -1,14 +1,17 @@
 import type { Octokit } from '@octokit/rest'
-import type { ReleaseEntry } from '../src/lib/github'
+import type { OwnerRepo, ReleaseEntry } from '../src/lib/github'
 
 import { describe, expect, mock, test } from 'bun:test'
 import {
   fetchGithubStats,
+  fetchOwnerRepos,
   fetchReleases,
   formatStats,
   normalizeReleaseTitle,
   pickLatestPerRepo,
+  pickTopRepos,
   renderReleaseEntries,
+  renderTopRepos,
 
 } from '../src/lib/github'
 
@@ -104,16 +107,44 @@ describe('renderReleaseEntries', () => {
   })
 })
 
-describe('fetchReleases', () => {
-  const repo = (name: string, extra: Record<string, unknown> = {}) => ({
+function repo(name: string, extra: Record<string, unknown> = {}) {
+  return ({
     name,
     owner: { login: 'tuanductran' },
     html_url: `https://github.com/tuanductran/${name}`,
     fork: false,
     private: false,
+    stargazers_count: 0,
+    forks_count: 0,
     ...extra,
+  }) as OwnerRepo
+}
+
+describe('fetchOwnerRepos', () => {
+  test('paginates the given username\'s repo list', async () => {
+    const octokit = createFakeOctokit({
+      listForUser: async ({ username }) => ({ data: [repo(`${username}-repo`)] }),
+    })
+
+    const repos = await fetchOwnerRepos(octokit, 'tuanductran')
+    expect(repos).toHaveLength(1)
+    expect(repos[0]?.name).toBe('tuanductran-repo')
   })
 
+  test('propagates a failure listing the owner\'s repos, instead of silently returning none', async () => {
+    const octokit = createFakeOctokit({
+      listForUser: async () => {
+        throw new Error('403 Resource not accessible by integration')
+      },
+    })
+
+    await expect(fetchOwnerRepos(octokit, 'tuanductran')).rejects.toThrow(
+      '403 Resource not accessible by integration',
+    )
+  })
+})
+
+describe('fetchReleases', () => {
   const release = (extra: Record<string, unknown> = {}) => ({
     name: 'v1.0.0',
     tag_name: 'v1.0.0',
@@ -125,31 +156,30 @@ describe('fetchReleases', () => {
 
   test('fetches releases for owned, public, non-fork repos', async () => {
     const octokit = createFakeOctokit({
-      listForUser: async () => ({ data: [repo('a'), repo('b')] }),
       listReleases: async ({ repo: name }) => ({
         data: name === 'a' ? [release()] : [],
       }),
     })
 
-    const releases = await fetchReleases(octokit, 'tuanductran')
+    const releases = await fetchReleases(octokit, [repo('a'), repo('b')])
     expect(releases).toHaveLength(1)
     expect(releases[0]).toMatchObject({ repo: 'a', publishedAt: '2026-08-01' })
   })
 
   test('skips forked and private repos', async () => {
     const octokit = createFakeOctokit({
-      listForUser: async () => ({
-        data: [repo('fork', { fork: true }), repo('secret', { private: true })],
-      }),
       listReleases: async () => ({ data: [release()] }),
     })
 
-    expect(await fetchReleases(octokit, 'tuanductran')).toHaveLength(0)
+    const releases = await fetchReleases(octokit, [
+      repo('fork', { fork: true }),
+      repo('secret', { private: true }),
+    ])
+    expect(releases).toHaveLength(0)
   })
 
   test('skips prereleases, "nightly" tags, and releases with no publish date', async () => {
     const octokit = createFakeOctokit({
-      listForUser: async () => ({ data: [repo('a')] }),
       listReleases: async () => ({
         data: [
           release({ prerelease: true }),
@@ -160,7 +190,7 @@ describe('fetchReleases', () => {
       }),
     })
 
-    const releases = await fetchReleases(octokit, 'tuanductran')
+    const releases = await fetchReleases(octokit, [repo('a')])
     expect(releases).toHaveLength(1)
     expect(releases[0]?.release).toBe('v2.0.0')
   })
@@ -172,7 +202,6 @@ describe('fetchReleases', () => {
 
     try {
       const octokit = createFakeOctokit({
-        listForUser: async () => ({ data: [repo('broken'), repo('a')] }),
         listReleases: async ({ repo: name }) => {
           if (name === 'broken')
             throw new Error('boom')
@@ -180,7 +209,7 @@ describe('fetchReleases', () => {
         },
       })
 
-      const releases = await fetchReleases(octokit, 'tuanductran')
+      const releases = await fetchReleases(octokit, [repo('broken'), repo('a')])
       expect(releases).toHaveLength(1)
       expect(releases[0]?.repo).toBe('a')
       expect(errorSpy).toHaveBeenCalled()
@@ -189,34 +218,21 @@ describe('fetchReleases', () => {
       console.error = originalError
     }
   })
-
-  test('propagates a failure listing the owner\'s repos, instead of silently returning no releases', async () => {
-    const octokit = createFakeOctokit({
-      listForUser: async () => {
-        throw new Error('403 Resource not accessible by integration')
-      },
-    })
-
-    await expect(fetchReleases(octokit, 'tuanductran')).rejects.toThrow(
-      '403 Resource not accessible by integration',
-    )
-  })
 })
 
 describe('fetchGithubStats', () => {
   test('sums stars/forks across non-fork repos and reads the follower count', async () => {
     const octokit = createFakeOctokit({
       getByUsername: async () => ({ data: { followers: 594 } }),
-      listForUser: async () => ({
-        data: [
-          { fork: false, stargazers_count: 10, forks_count: 2 },
-          { fork: true, stargazers_count: 999, forks_count: 999 },
-          { fork: false, stargazers_count: 5, forks_count: 1 },
-        ],
-      }),
     })
 
-    expect(await fetchGithubStats(octokit, 'tuanductran')).toEqual({
+    const repos = [
+      repo('a', { stargazers_count: 10, forks_count: 2 }),
+      repo('fork', { fork: true, stargazers_count: 999, forks_count: 999 }),
+      repo('b', { stargazers_count: 5, forks_count: 1 }),
+    ]
+
+    expect(await fetchGithubStats(octokit, 'tuanductran', repos)).toEqual({
       followers: 594,
       stars: 15,
       forks: 3,
@@ -231,15 +247,14 @@ describe('fetchGithubStats', () => {
     try {
       const octokit = createFakeOctokit({
         getByUsername: async () => ({ data: { followers: 0 } }),
-        listForUser: async () => ({ data: [] }),
-        get: async ({ repo }) => {
-          if (repo === 'broken')
+        get: async ({ repo: repoName }) => {
+          if (repoName === 'broken')
             throw new Error('boom')
           return { data: { stargazers_count: 7, forks_count: 3 } }
         },
       })
 
-      const stats = await fetchGithubStats(octokit, 'tuanductran', [
+      const stats = await fetchGithubStats(octokit, 'tuanductran', [], [
         { owner: 'org', repo: 'broken' },
         { owner: 'org', repo: 'ok' },
       ])
@@ -259,9 +274,54 @@ describe('fetchGithubStats', () => {
       },
     })
 
-    await expect(fetchGithubStats(octokit, 'tuanductran')).rejects.toThrow(
+    await expect(fetchGithubStats(octokit, 'tuanductran', [])).rejects.toThrow(
       '403 Resource not accessible by integration',
     )
+  })
+})
+
+describe('pickTopRepos', () => {
+  test('sorts by star count, descending', () => {
+    const result = pickTopRepos(
+      [repo('a', { stargazers_count: 5 }), repo('b', { stargazers_count: 20 }), repo('c', { stargazers_count: 10 })],
+      10,
+    )
+    expect(result.map(r => r.name)).toEqual(['b', 'c', 'a'])
+  })
+
+  test('excludes forked and private repos', () => {
+    const result = pickTopRepos(
+      [
+        repo('a', { stargazers_count: 5 }),
+        repo('fork', { fork: true, stargazers_count: 999 }),
+        repo('secret', { private: true, stargazers_count: 999 }),
+      ],
+      10,
+    )
+    expect(result).toHaveLength(1)
+    expect(result[0]?.name).toBe('a')
+  })
+
+  test('respects the limit', () => {
+    const result = pickTopRepos(
+      [repo('a', { stargazers_count: 5 }), repo('b', { stargazers_count: 20 }), repo('c', { stargazers_count: 10 })],
+      2,
+    )
+    expect(result.map(r => r.name)).toEqual(['b', 'c'])
+  })
+})
+
+describe('renderTopRepos', () => {
+  test('renders a GFM table with a header row', () => {
+    const result = renderTopRepos([{ name: 'Kami', url: 'https://x/1', stars: 1234 }])
+    expect(result).toContain('| Repository')
+    expect(result).toContain('| Stars')
+    expect(result).toContain('[Kami](https://x/1)')
+    expect(result).toContain('1,234')
+  })
+
+  test('renders a fallback message for an empty list', () => {
+    expect(renderTopRepos([])).toBe('No repositories yet.')
   })
 })
 
