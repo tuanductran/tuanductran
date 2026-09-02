@@ -37,6 +37,14 @@ export function normalizeReleaseTitle(
  * `listForAuthenticatedUser` ("who am I") — the CI workflow authenticates
  * with the default `GITHUB_TOKEN`, which is a repo-scoped GitHub App
  * installation token, not a real user token, so `/user/repos` 403s for it.
+ *
+ * A single repo's `listReleases` call failing is tolerated (logged, that
+ * repo just contributes no releases) since it doesn't taint the rest of the
+ * run. But `listForUser` itself failing propagates: there is no meaningful
+ * fallback for "recent releases", so the caller should surface this loudly
+ * rather than silently rendering "No recent releases." (see the incident
+ * this repo had from swallowing exactly this error — documented in
+ * CLAUDE.md).
  */
 export async function fetchReleases(
   octokit: Octokit,
@@ -46,52 +54,47 @@ export async function fetchReleases(
   const { maxPerRepo = 10 } = options
   const releases: ReleaseEntry[] = []
 
-  try {
-    const repos = await octokit.paginate(octokit.repos.listForUser, {
-      username: owner,
-      type: 'owner',
-      per_page: 100,
-    })
+  const repos = await octokit.paginate(octokit.repos.listForUser, {
+    username: owner,
+    type: 'owner',
+    per_page: 100,
+  })
 
-    for (const repo of repos) {
-      if (repo.fork || repo.private)
-        continue
+  for (const repo of repos) {
+    if (repo.fork || repo.private)
+      continue
 
-      try {
-        const repoReleases = await octokit.paginate(octokit.repos.listReleases, {
-          owner: repo.owner.login,
+    try {
+      const repoReleases = await octokit.paginate(octokit.repos.listReleases, {
+        owner: repo.owner.login,
+        repo: repo.name,
+        per_page: maxPerRepo,
+      })
+
+      for (const release of repoReleases.slice(0, maxPerRepo)) {
+        if (release.prerelease)
+          continue
+        if ((release.tag_name ?? '').toLowerCase() === 'nightly')
+          continue
+        if (!release.published_at)
+          continue
+
+        releases.push({
           repo: repo.name,
-          per_page: maxPerRepo,
+          repoUrl: repo.html_url,
+          release: normalizeReleaseTitle(
+            repo.name,
+            release.name,
+            release.tag_name,
+          ),
+          publishedAt: release.published_at.slice(0, 10),
+          url: release.html_url,
         })
-
-        for (const release of repoReleases.slice(0, maxPerRepo)) {
-          if (release.prerelease)
-            continue
-          if ((release.tag_name ?? '').toLowerCase() === 'nightly')
-            continue
-          if (!release.published_at)
-            continue
-
-          releases.push({
-            repo: repo.name,
-            repoUrl: repo.html_url,
-            release: normalizeReleaseTitle(
-              repo.name,
-              release.name,
-              release.tag_name,
-            ),
-            publishedAt: release.published_at.slice(0, 10),
-            url: release.html_url,
-          })
-        }
-      }
-      catch (error) {
-        console.error(`Error fetching releases for ${repo.name}:`, error)
       }
     }
-  }
-  catch (error) {
-    console.error('Error fetching releases:', error)
+    catch (error) {
+      console.error(`Error fetching releases for ${repo.name}:`, error)
+    }
   }
 
   return releases
@@ -140,65 +143,49 @@ export function renderReleaseEntries(releases: ReleaseEntry[]): string {
  * `listForAuthenticatedUser` for the same reason as `fetchReleases` above:
  * the default `GITHUB_TOKEN` isn't a user token, so the "authenticated
  * user" endpoints 403 for it.
+ *
+ * `getByUsername`/`listForUser` failing propagates rather than falling back
+ * to a stale number, for the same reason as `fetchReleases`: the committed
+ * README already holds the last known-good stats, so the caller aborting
+ * the build (and leaving that commit untouched) is a better fallback than
+ * a runtime one that can silently mask a broken fetch. A single failed
+ * `extraRepos` lookup is tolerated (logged, that repo just contributes 0).
  */
 export async function fetchGithubStats(
   octokit: Octokit,
   owner: string,
-  fallback: GithubStats,
   extraRepos: Array<{ owner: string, repo: string }> = [],
 ): Promise<GithubStats> {
-  try {
-    const { data: user } = await octokit.users.getByUsername({ username: owner })
+  const { data: user } = await octokit.users.getByUsername({ username: owner })
 
-    let totalStars = 0
-    let totalForks = 0
+  let totalStars = 0
+  let totalForks = 0
 
-    const repos = await octokit.paginate(octokit.repos.listForUser, {
-      username: owner,
-      type: 'owner',
-      per_page: 100,
-    })
+  const repos = await octokit.paginate(octokit.repos.listForUser, {
+    username: owner,
+    type: 'owner',
+    per_page: 100,
+  })
 
-    for (const repo of repos) {
-      if (repo.fork)
-        continue
-      totalStars += repo.stargazers_count ?? 0
-      totalForks += repo.forks_count ?? 0
+  for (const repo of repos) {
+    if (repo.fork)
+      continue
+    totalStars += repo.stargazers_count ?? 0
+    totalForks += repo.forks_count ?? 0
+  }
+
+  for (const { owner: extraOwner, repo } of extraRepos) {
+    try {
+      const { data } = await octokit.repos.get({ owner: extraOwner, repo })
+      totalStars += data.stargazers_count ?? 0
+      totalForks += data.forks_count ?? 0
     }
-
-    for (const { owner, repo } of extraRepos) {
-      try {
-        const { data } = await octokit.repos.get({ owner, repo })
-        totalStars += data.stargazers_count ?? 0
-        totalForks += data.forks_count ?? 0
-      }
-      catch (error) {
-        console.error(`Error fetching stats for ${owner}/${repo}:`, error)
-      }
+    catch (error) {
+      console.error(`Error fetching stats for ${extraOwner}/${repo}:`, error)
     }
-
-    return { stars: totalStars, forks: totalForks, followers: user.followers }
   }
-  catch (error) {
-    console.error('Error fetching GitHub stats:', error)
-    return fallback
-  }
-}
 
-/** Pull `N,NNN followers, N,NNN stars, N,NNN forks` out of existing README text, for a fallback if the API call fails. */
-export function extractCurrentStats(readmeContent: string): GithubStats {
-  const match = readmeContent.match(
-    /([\d,]+) followers, ([\d,]+) stars, ([\d,]+) forks/,
-  )
-  const [, followers, stars, forks] = match ?? []
-  if (!followers || !stars || !forks)
-    return { followers: 0, stars: 0, forks: 0 }
-
-  return {
-    followers: Number(followers.replace(/,/g, '')),
-    stars: Number(stars.replace(/,/g, '')),
-    forks: Number(forks.replace(/,/g, '')),
-  }
+  return { stars: totalStars, forks: totalForks, followers: user.followers }
 }
 
 export function formatStats(stats: GithubStats): string {

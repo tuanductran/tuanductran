@@ -1,14 +1,46 @@
+import type { Octokit } from '@octokit/rest'
 import type { ReleaseEntry } from '../src/lib/github'
 
-import { describe, expect, test } from 'bun:test'
+import { describe, expect, mock, test } from 'bun:test'
 import {
-  extractCurrentStats,
+  fetchGithubStats,
+  fetchReleases,
   formatStats,
   normalizeReleaseTitle,
   pickLatestPerRepo,
   renderReleaseEntries,
 
 } from '../src/lib/github'
+
+/**
+ * A minimal Octokit stand-in: only the handful of methods `fetchReleases`
+ * and `fetchGithubStats` actually call. `paginate` here just calls the
+ * given endpoint once and returns its `data` — good enough since none of
+ * these tests exercise real multi-page responses.
+ */
+function createFakeOctokit(overrides: {
+  listForUser?: (params: any) => Promise<{ data: any[] }>
+  listReleases?: (params: any) => Promise<{ data: any[] }>
+  get?: (params: any) => Promise<{ data: any }>
+  getByUsername?: (params: any) => Promise<{ data: any }>
+} = {}): Octokit {
+  const repos = {
+    listForUser: overrides.listForUser ?? (async () => ({ data: [] })),
+    listReleases: overrides.listReleases ?? (async () => ({ data: [] })),
+    get: overrides.get ?? (async () => ({ data: {} })),
+  }
+  const users = {
+    getByUsername: overrides.getByUsername ?? (async () => ({ data: { followers: 0 } })),
+  }
+  return {
+    repos,
+    users,
+    paginate: async (fn: (params: any) => Promise<{ data: any[] }>, params: any) => {
+      const { data } = await fn(params)
+      return data
+    },
+  } as unknown as Octokit
+}
 
 describe('normalizeReleaseTitle', () => {
   test('strips the repo name and emoji from the release title', () => {
@@ -72,18 +104,164 @@ describe('renderReleaseEntries', () => {
   })
 })
 
-describe('extractCurrentStats', () => {
-  test('parses comma-separated counts out of README prose', () => {
-    const stats = extractCurrentStats('12,852 followers, 174,007 stars, 18,907 forks across code projects.')
-    expect(stats).toEqual({ followers: 12852, stars: 174007, forks: 18907 })
+describe('fetchReleases', () => {
+  const repo = (name: string, extra: Record<string, unknown> = {}) => ({
+    name,
+    owner: { login: 'tuanductran' },
+    html_url: `https://github.com/tuanductran/${name}`,
+    fork: false,
+    private: false,
+    ...extra,
   })
 
-  test('returns zeros when the pattern is not found', () => {
-    expect(extractCurrentStats('no stats here')).toEqual({
-      followers: 0,
-      stars: 0,
-      forks: 0,
+  const release = (extra: Record<string, unknown> = {}) => ({
+    name: 'v1.0.0',
+    tag_name: 'v1.0.0',
+    html_url: 'https://github.com/tuanductran/x/releases/tag/v1.0.0',
+    prerelease: false,
+    published_at: '2026-08-01T00:00:00Z',
+    ...extra,
+  })
+
+  test('fetches releases for owned, public, non-fork repos', async () => {
+    const octokit = createFakeOctokit({
+      listForUser: async () => ({ data: [repo('a'), repo('b')] }),
+      listReleases: async ({ repo: name }) => ({
+        data: name === 'a' ? [release()] : [],
+      }),
     })
+
+    const releases = await fetchReleases(octokit, 'tuanductran')
+    expect(releases).toHaveLength(1)
+    expect(releases[0]).toMatchObject({ repo: 'a', publishedAt: '2026-08-01' })
+  })
+
+  test('skips forked and private repos', async () => {
+    const octokit = createFakeOctokit({
+      listForUser: async () => ({
+        data: [repo('fork', { fork: true }), repo('secret', { private: true })],
+      }),
+      listReleases: async () => ({ data: [release()] }),
+    })
+
+    expect(await fetchReleases(octokit, 'tuanductran')).toHaveLength(0)
+  })
+
+  test('skips prereleases, "nightly" tags, and releases with no publish date', async () => {
+    const octokit = createFakeOctokit({
+      listForUser: async () => ({ data: [repo('a')] }),
+      listReleases: async () => ({
+        data: [
+          release({ prerelease: true }),
+          release({ tag_name: 'nightly' }),
+          release({ published_at: null }),
+          release({ name: 'v2.0.0', tag_name: 'v2.0.0' }),
+        ],
+      }),
+    })
+
+    const releases = await fetchReleases(octokit, 'tuanductran')
+    expect(releases).toHaveLength(1)
+    expect(releases[0]?.release).toBe('v2.0.0')
+  })
+
+  test('a single repo\'s failing listReleases call is logged and skipped, not fatal', async () => {
+    const errorSpy = mock(() => {})
+    const originalError = console.error
+    console.error = errorSpy
+
+    try {
+      const octokit = createFakeOctokit({
+        listForUser: async () => ({ data: [repo('broken'), repo('a')] }),
+        listReleases: async ({ repo: name }) => {
+          if (name === 'broken')
+            throw new Error('boom')
+          return { data: [release()] }
+        },
+      })
+
+      const releases = await fetchReleases(octokit, 'tuanductran')
+      expect(releases).toHaveLength(1)
+      expect(releases[0]?.repo).toBe('a')
+      expect(errorSpy).toHaveBeenCalled()
+    }
+    finally {
+      console.error = originalError
+    }
+  })
+
+  test('propagates a failure listing the owner\'s repos, instead of silently returning no releases', async () => {
+    const octokit = createFakeOctokit({
+      listForUser: async () => {
+        throw new Error('403 Resource not accessible by integration')
+      },
+    })
+
+    await expect(fetchReleases(octokit, 'tuanductran')).rejects.toThrow(
+      '403 Resource not accessible by integration',
+    )
+  })
+})
+
+describe('fetchGithubStats', () => {
+  test('sums stars/forks across non-fork repos and reads the follower count', async () => {
+    const octokit = createFakeOctokit({
+      getByUsername: async () => ({ data: { followers: 594 } }),
+      listForUser: async () => ({
+        data: [
+          { fork: false, stargazers_count: 10, forks_count: 2 },
+          { fork: true, stargazers_count: 999, forks_count: 999 },
+          { fork: false, stargazers_count: 5, forks_count: 1 },
+        ],
+      }),
+    })
+
+    expect(await fetchGithubStats(octokit, 'tuanductran')).toEqual({
+      followers: 594,
+      stars: 15,
+      forks: 3,
+    })
+  })
+
+  test('adds extraRepos into the totals and tolerates one failing to fetch', async () => {
+    const errorSpy = mock(() => {})
+    const originalError = console.error
+    console.error = errorSpy
+
+    try {
+      const octokit = createFakeOctokit({
+        getByUsername: async () => ({ data: { followers: 0 } }),
+        listForUser: async () => ({ data: [] }),
+        get: async ({ repo }) => {
+          if (repo === 'broken')
+            throw new Error('boom')
+          return { data: { stargazers_count: 7, forks_count: 3 } }
+        },
+      })
+
+      const stats = await fetchGithubStats(octokit, 'tuanductran', [
+        { owner: 'org', repo: 'broken' },
+        { owner: 'org', repo: 'ok' },
+      ])
+
+      expect(stats).toEqual({ followers: 0, stars: 7, forks: 3 })
+      expect(errorSpy).toHaveBeenCalled()
+    }
+    finally {
+      console.error = originalError
+    }
+  })
+
+  test('propagates a failure fetching the owner\'s profile, instead of silently falling back', async () => {
+    const octokit = createFakeOctokit({
+      getByUsername: async () => {
+        throw new Error('403 Resource not accessible by integration')
+      },
+    })
+
+    await expect(fetchGithubStats(octokit, 'tuanductran')).rejects.toThrow(
+      '403 Resource not accessible by integration',
+    )
   })
 })
 
