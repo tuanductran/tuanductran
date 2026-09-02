@@ -46,10 +46,17 @@ export function truncateMiddle(
 
 /**
  * Escape characters that would otherwise break out of a GFM table cell:
- * `|` (column separator) and literal newlines (cells must be single-line).
+ * `\` (escape character), `|` (column separator), and literal newlines
+ * (cells must be single-line). Backslashes must be escaped *first* — if
+ * `|` were escaped alone, input already containing `\|` would become
+ * `\\|`, where the doubled backslash reads as one literal backslash and
+ * leaves the following `|` unescaped again, defeating the whole point.
  * `markdown-table` handles column padding/alignment but, by design,
  * doesn't handle escaping — see https://github.com/wooorm/markdown-table.
  */
 export function escapeTableCell(text: string): string {
-  return text.replace(/\|/g, '\\|').replace(/\r?\n/g, ' ')
+  return text
+    .replace(/\\/g, '\\\\')
+    .replace(/\|/g, '\\|')
+    .replace(/\r?\n/g, ' ')
 }
