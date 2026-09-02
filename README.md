@@ -12,18 +12,17 @@ Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js
 
 ## Latest Releases
 
-| Release                                                                              | Published  |
-| ------------------------------------------------------------------------------------ | ---------- |
-| [soulmap-ai v0.10.0](https://github.com/tuanductran/soulmap-ai/releases/tag/v0.10.0) | 2026-08-30 |
-| [hr-skills v1.4.0](https://github.com/tuanductran/hr-skills/releases/tag/v1.4.0)     | 2026-08-15 |
+No recent releases.
 
 ## Recent Posts
 
-| Post                                                                                                                                           | Published  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Vue 3 với TypeScript: Xây dựng Component và Composable Type-safe](https://tuanductran.xyz/posts/vue-3-voi-typescript-composition-api)         | 2026-08-27 |
-| [TypeScript Toolchain hiện đại: Strict Compiler, Linting, Testing và Build nhanh](https://tuanductran.xyz/posts/typescript-toolchain-hien-dai) | 2026-08-27 |
-| [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)                                     | 2026-05-19 |
+| Post                                                                                                                        | Published  |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)                  | 2026-05-19 |
+| [Càng nhiều AI, càng cần UI tốt hơn](https://tuanductran.xyz/posts/cang-nhieu-ai-cang-can-ui-tot-hon)                       | 2026-05-17 |
+| [Tuyển dụng không ch... lấp đầy một vị trí](https://tuanductran.xyz/posts/tuyen-dung-khong-chi-la-lap-day-mot-vi-tri)       | 2026-03-16 |
+| [Một workflow đủ dùn...và đủ lâu để gắn bó](https://tuanductran.xyz/posts/mot-workflow-du-dung-du-quen-va-du-lau-de-gan-bo) | 2026-01-17 |
+| [Đổi màu giao diện v...eact và TailwindCSS](https://tuanductran.xyz/posts/doi-mau-giao-dien-voi-preact-va-tailwindcss)      | 2026-01-17 |
 
 ## Connect with Me
 
