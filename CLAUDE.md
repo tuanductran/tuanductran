@@ -149,7 +149,7 @@ bun run lint:md:fix
   dependency versions.
 - `stale.yml` — daily cron: labels/closes stale issues and PRs.
 
-## `.claude/` — project skills and permissions
+## `.claude/` — project skills, permissions, and hooks
 
 - `.claude/skills/` — one skill per area of this repo's stack:
   `octokit-github-api` (GitHub API/Octokit conventions — the fail-loud and
@@ -157,12 +157,24 @@ bun run lint:md:fix
   CI caching), `readme-content-pipeline` (Mustache/GFM-table/RSS
   conventions), `code-style` (eslint/markdownlint conventions). These load
   automatically when relevant; each is more detailed than the summary here.
-- `.claude/settings.json` — permission rules for this repo: allows the
-  `package.json` scripts and low-risk local git commands
-  (`add`/`commit`/`checkout -b`/`branch -m`/`fetch`) without prompting;
-  denies `npm`/`yarn`/`pnpm` (this repo is Bun-only, see "Bun only" in the
-  `bun-runtime` skill), force-pushes, `--no-verify`, `git reset --hard`,
-  `git clean -f`, `rm -rf`, and reading `.env` files.
+- `.claude/settings.json` — permission rules for this repo:
+  - `allow`: the `package.json` scripts and low-risk local git commands
+    (`add`/`commit`/`checkout -b`/`branch -m`/`fetch`) run without
+    prompting.
+  - `deny`: `npm`/`yarn`/`pnpm` (this repo is Bun-only, see "Bun only" in
+    the `bun-runtime` skill), force-pushes, `--no-verify`, `git reset
+--hard`, `git clean -f`, `rm -rf`, and reading `.env` files.
+  - `ask`: `git push` and edits to `.github/workflows/**` always prompt for
+    confirmation — pushing is externally visible and workflow files can
+    grant CI secrets/permissions, so neither should be silently
+    auto-approved even though the rest of the local git loop is.
+  - `hooks.PreToolUse` runs `.claude/hooks/block-readme-edit.sh` before
+    every `Edit`/`Write` call: it denies the call if the target path is
+    `README.md`, with a message pointing at `README.template.md` and
+    `bun run build` instead. This is the machine-enforced version of the
+    "never hand-edit README.md" rule below — Bash-driven writes (i.e. the
+    real build script) are untouched, since the hook only gates the
+    Edit/Write tools.
 
 ## Conventions
 

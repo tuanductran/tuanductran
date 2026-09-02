@@ -33,6 +33,24 @@
       "Read(.env)",
       "Read(**/.env)",
       "Read(.env.*)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Edit(.github/workflows/**)",
+      "Write(.github/workflows/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PROJECT_DIR}/.claude/hooks/block-readme-edit.sh"
+          }
+        ]
+      }
     ]
   }
 }
