@@ -1,7 +1,6 @@
-import { markdownTable } from 'markdown-table'
 import Parser from 'rss-parser'
 
-import { escapeTableCell, truncateMiddle } from './text'
+import { renderTable, truncateMiddle } from './text'
 
 export interface FeedEntry {
   title: string
@@ -76,9 +75,9 @@ export function renderFeedEntries(entries: FeedEntry[]): string {
   if (entries.length === 0)
     return 'No recent posts.'
 
-  const rows = entries.map(e => [
-    `[${escapeTableCell(e.title)}](${e.url})`,
+  const rows: [string, string][] = entries.map(e => [
+    `[${e.title}](${e.url})`,
     e.published,
   ])
-  return markdownTable([['Post', 'Published'], ...rows])
+  return renderTable(['Post', 'Published'], rows)
 }

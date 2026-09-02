@@ -1,6 +1,5 @@
 import process from 'node:process'
 
-import { Octokit } from '@octokit/rest'
 import Mustache from 'mustache'
 
 import { fetchFeedEntries, renderFeedEntries } from './lib/feed'
@@ -12,6 +11,7 @@ import {
   pickLatestPerRepo,
   renderReleaseEntries,
 } from './lib/github'
+import { createOctokit } from './lib/octokit'
 
 const TEMPLATE_PATH = new URL('../README.template.md', import.meta.url)
 const README_PATH = new URL('../README.md', import.meta.url)
@@ -40,7 +40,7 @@ async function readFallbackStats() {
 
 async function main() {
   const token = process.env.GH_TOKEN ?? process.env.GITHUB_TOKEN ?? ''
-  const octokit = new Octokit({ auth: token || undefined })
+  const octokit = createOctokit(token || undefined)
 
   const fallbackStats = await readFallbackStats()
 

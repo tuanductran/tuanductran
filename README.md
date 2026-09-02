@@ -19,13 +19,11 @@ Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js
 
 ## Recent Posts
 
-| Post                                                                                                                                                                | Published  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [Vue 3 với TypeScript: Xây dựng Component và Composable Type-safe](https://tuanductran.xyz/posts/vue-3-voi-typescript-composition-api)                              | 2026-08-27 |
-| [TypeScript Toolchain hiện đại: Strict Compiler, Linting, Testing và Build nhanh](https://tuanductran.xyz/posts/typescript-toolchain-hien-dai)                      | 2026-08-27 |
-| [Design Pattern nâng cao trong TypeScript: Thiết kế hệ thống linh hoạt và an toàn về kiểu](https://tuanductran.xyz/posts/design-patterns-nang-cao-trong-typescript) | 2026-08-27 |
-| [Clean Code với TypeScript: Nguyên tắc thiết kế mã rõ ràng, an toàn và dễ bảo trì](https://tuanductran.xyz/posts/clean-code-voi-typescript)                         | 2026-08-27 |
-| [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)                                                          | 2026-05-19 |
+| Post                                                                                                                                           | Published  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Vue 3 với TypeScript: Xây dựng Component và Composable Type-safe](https://tuanductran.xyz/posts/vue-3-voi-typescript-composition-api)         | 2026-08-27 |
+| [TypeScript Toolchain hiện đại: Strict Compiler, Linting, Testing và Build nhanh](https://tuanductran.xyz/posts/typescript-toolchain-hien-dai) | 2026-08-27 |
+| [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)                                     | 2026-05-19 |
 
 ## Connect with Me
 

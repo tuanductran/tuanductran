@@ -1,6 +1,6 @@
 import { describe, expect, test } from 'bun:test'
 
-import { escapeTableCell, stripEmoji, truncateMiddle } from '../src/lib/text'
+import { escapeTableCell, renderTable, stripEmoji, truncateMiddle } from '../src/lib/text'
 
 describe('stripEmoji', () => {
   test('removes emoji and collapses whitespace', () => {
@@ -80,5 +80,35 @@ describe('escapeTableCell', () => {
     for (const input of cases) {
       expect(hasUnescapedPipe(escapeTableCell(input))).toBe(false)
     }
+  })
+})
+
+describe('renderTable', () => {
+  test('renders a header row and aligned data rows', () => {
+    const result = renderTable(['Post', 'Published'], [['[A](https://x/1)', '2026-01-01']])
+    expect(result).toContain('| Post')
+    expect(result).toContain('| Published')
+    expect(result).toContain('[A](https://x/1)')
+  })
+
+  test('escapes pipes anywhere in a cell, including inside the URL', () => {
+    // A pipe hiding inside the (url) portion is just as dangerous as one
+    // in the title -- GFM tables don't know or care that it's "inside a
+    // link"; it's still a bare column separator to the table parser.
+    const result = renderTable(['Post', 'Published'], [['[Title](https://x/a|b)', '2026-01-01']])
+    expect(result).toContain('a\\|b')
+  })
+
+  test('aligns columns by display width, not UTF-16 length, for non-ASCII text', () => {
+    const result = renderTable(['Post', 'Published'], [
+      ['[Việt](https://x/1)', '2026-01-01'],
+      ['[English title here](https://x/2)', '2026-01-02'],
+    ])
+    const lines = result.split('\n').filter(Boolean)
+    const widths = new Set(lines.map(line => line.length))
+    // Every row (header, separator, and both data rows) should render to
+    // the same total line width once padded -- a plain `.length` cell
+    // measurement would under-pad the diacritic-heavy row and misalign it.
+    expect(widths.size).toBe(1)
   })
 })

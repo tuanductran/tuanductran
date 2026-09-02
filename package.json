@@ -17,10 +17,13 @@
     "preinstall": "bunx only-allow bun"
   },
   "dependencies": {
+    "@octokit/plugin-retry": "8.1.1",
+    "@octokit/plugin-throttling": "11.0.5",
     "@octokit/rest": "^22.0.1",
     "markdown-table": "3.0.4",
     "mustache": "4.2.0",
-    "rss-parser": "^3.13.0"
+    "rss-parser": "^3.13.0",
+    "string-width": "8.2.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^9.3.0",

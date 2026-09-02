@@ -3,6 +3,9 @@
  * Ported from the original `build_readme.py` with the same behavior.
  */
 
+import { markdownTable } from 'markdown-table'
+import stringWidth from 'string-width'
+
 const TITLE_MAX_LEN = 41
 
 // Mirrors the Python EMOJI_RE ranges: flags, pictographs, emoticons,
@@ -59,4 +62,15 @@ export function escapeTableCell(text: string): string {
     .replace(/\\/g, '\\\\')
     .replace(/\|/g, '\\|')
     .replace(/\r?\n/g, ' ')
+}
+
+/**
+ * Render a two-column GFM table, escaping `|`/`\`/newlines in every cell
+ * and column-aligning by *display* width rather than UTF-16 code units —
+ * plain `.length` misaligns delimiters for Vietnamese diacritics, CJK, and
+ * emoji. See https://github.com/wooorm/markdown-table#optionsstringlength.
+ */
+export function renderTable(headers: [string, string], rows: [string, string][]): string {
+  const escapedRows = rows.map(row => row.map(escapeTableCell) as [string, string])
+  return markdownTable([headers, ...escapedRows], { stringLength: stringWidth })
 }

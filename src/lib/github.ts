@@ -1,7 +1,6 @@
 import type { Octokit } from '@octokit/rest'
-import { markdownTable } from 'markdown-table'
 
-import { escapeTableCell, stripEmoji } from './text'
+import { renderTable, stripEmoji } from './text'
 
 export interface ReleaseEntry {
   repo: string
@@ -119,11 +118,11 @@ export function renderReleaseEntries(releases: ReleaseEntry[]): string {
   if (releases.length === 0)
     return 'No recent releases.'
 
-  const rows = releases.map(r => [
-    `[${escapeTableCell(`${r.repo} ${r.release}`)}](${r.url})`,
+  const rows: [string, string][] = releases.map(r => [
+    `[${r.repo} ${r.release}](${r.url})`,
     r.publishedAt,
   ])
-  return markdownTable([['Release', 'Published'], ...rows])
+  return renderTable(['Release', 'Published'], rows)
 }
 
 /** Sum stargazers/forks across owned, non-fork repos, plus optional extra repos, and the user's follower count. */

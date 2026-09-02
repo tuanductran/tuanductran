@@ -2,13 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint-cli2/main/schema/markdownlint-cli2-config-schema.json",
   "config": {
     "default": true,
-    // README.md is a single-paragraph, badge-and-table generated profile
-    // page (see src/build-readme.ts); long lines and inline HTML
-    // (<table>, <td>, badge images) are intentional, and the file doesn't
-    // open with a top-level heading.
+    // README.md is generated (see src/build-readme.ts) as a single long
+    // intro paragraph with no top-level heading; MD013/MD041 don't fit
+    // that layout. Everything else (CODE_OF_CONDUCT.md, SECURITY.md, and
+    // any future .md file) is held to the full default rule set.
     "MD013": false,
-    "MD033": false,
     "MD041": false
   },
-  "globs": ["README.md"]
+  "globs": ["**/*.md"],
+  "ignores": ["README.template.md", "node_modules"]
 }
