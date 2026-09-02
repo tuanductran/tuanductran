@@ -27,6 +27,14 @@ jobs:
         with:
           bun-version: latest
 
+      - name: Cache Bun Dependencies
+        uses: actions/cache@v6.1.0
+        with:
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-bun-
+
       - name: Install Dependencies
         run: bun install --frozen-lockfile
 

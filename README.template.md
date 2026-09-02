@@ -14,6 +14,10 @@ Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js
 
 {{ recent_releases }}
 
+## Top Repositories
+
+{{ top_repos }}
+
 ## Recent Posts
 
 {{ recent_posts }}

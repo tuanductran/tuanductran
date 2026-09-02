@@ -1,0 +1,56 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun install)",
+      "Bash(bun install --frozen-lockfile)",
+      "Bash(bun test)",
+      "Bash(bun run build)",
+      "Bash(bun run typecheck)",
+      "Bash(bun run lint)",
+      "Bash(bun run lint:fix)",
+      "Bash(bun run lint:md)",
+      "Bash(bun run lint:md:fix)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git checkout -b *)",
+      "Bash(git branch -m *)",
+      "Bash(git fetch *)"
+    ],
+    "deny": [
+      "Bash(npm *)",
+      "Bash(yarn *)",
+      "Bash(pnpm *)",
+      "Bash(sudo *)",
+      "Bash(rm -rf *)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git push --no-verify*)",
+      "Bash(git commit --no-verify*)",
+      "Bash(git reset --hard*)",
+      "Bash(git clean -f*)",
+      "Bash(git checkout -- *)",
+      "Bash(git branch -D*)",
+      "Read(.env)",
+      "Read(**/.env)",
+      "Read(.env.*)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Edit(.github/workflows/**)",
+      "Write(.github/workflows/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PROJECT_DIR}/.claude/hooks/block-readme-edit.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
