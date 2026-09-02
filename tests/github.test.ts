@@ -47,11 +47,28 @@ describe('pickLatestPerRepo', () => {
 })
 
 describe('renderReleaseEntries', () => {
-  test('renders the repo + release bullet list', () => {
+  test('renders a GFM table with a header row', () => {
     const result = renderReleaseEntries([
       { repo: 'Kami', repoUrl: '', release: 'V1.14.0', publishedAt: '2026-08-30', url: 'https://x/1' },
     ])
-    expect(result).toBe('• [Kami V1.14.0](https://x/1) - 2026-08-30')
+    expect(result).toContain('| Release')
+    expect(result).toContain('| Published')
+    expect(result).toContain('[Kami V1.14.0](https://x/1)')
+    expect(result).toContain('2026-08-30')
+  })
+
+  test('escapes pipe characters in release titles so the table stays valid', () => {
+    const result = renderReleaseEntries([
+      { repo: 'Kami', repoUrl: '', release: 'v1 | breaking change', publishedAt: '2026-08-30', url: 'https://x/1' },
+    ])
+    // one row = header separator line + one data line; a stray unescaped
+    // "|" would add an extra column and break every row's cell count.
+    const dataLine = result.split('\n').find(line => line.includes('breaking change'))
+    expect(dataLine).toContain('\\|')
+  })
+
+  test('renders a fallback message for an empty list', () => {
+    expect(renderReleaseEntries([])).toBe('No recent releases.')
   })
 })
 

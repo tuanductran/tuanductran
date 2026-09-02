@@ -25,17 +25,25 @@ describe('parseEntryDate', () => {
 })
 
 describe('renderFeedEntries', () => {
-  test('renders a bullet list joined with <br>', () => {
+  test('renders a GFM table with a header row', () => {
     const result = renderFeedEntries([
       { title: 'Post A', url: 'https://a.example/1', published: '2026-08-01' },
       { title: 'Post B', url: 'https://a.example/2', published: '2026-07-01' },
     ])
-    expect(result).toBe(
-      '• [Post A](https://a.example/1) - 2026-08-01<br>• [Post B](https://a.example/2) - 2026-07-01',
-    )
+    expect(result).toContain('| Post')
+    expect(result).toContain('| Published')
+    expect(result).toContain('[Post A](https://a.example/1)')
+    expect(result).toContain('[Post B](https://a.example/2)')
   })
 
-  test('renders empty string for an empty list', () => {
-    expect(renderFeedEntries([])).toBe('')
+  test('escapes pipe characters in post titles so the table stays valid', () => {
+    const result = renderFeedEntries([
+      { title: 'TS | JS: A Comparison', url: 'https://a.example/1', published: '2026-08-01' },
+    ])
+    expect(result).toContain('TS \\| JS: A Comparison')
+  })
+
+  test('renders a fallback message for an empty list', () => {
+    expect(renderFeedEntries([])).toBe('No recent posts.')
   })
 })

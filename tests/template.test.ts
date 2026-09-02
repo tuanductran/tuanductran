@@ -38,4 +38,11 @@ describe('README.template.md rendering', () => {
     const template = await Bun.file(new URL('../README.template.md', import.meta.url)).text()
     expect(template).not.toContain('<!--')
   })
+
+  test('the template uses plain markdown, not an HTML table, for the two content blocks', async () => {
+    const template = await Bun.file(new URL('../README.template.md', import.meta.url)).text()
+    expect(template).not.toContain('<table')
+    expect(template).not.toContain('<td')
+    expect(template).not.toContain('<tr')
+  })
 })

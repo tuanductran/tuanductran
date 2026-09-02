@@ -10,22 +10,22 @@ Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js
 - **WordPress Tools**: Elementor, Page Builders
 - **Operating Systems**: Windows, Linux (Ubuntu), macOS
 
-<table width="1200px" cellspacing="0" cellpadding="0">
-<tr>
-<td width="600px" valign="top">
+## Latest Releases
 
-### Latest Releases
+| Release                                                                              | Published  |
+| ------------------------------------------------------------------------------------ | ---------- |
+| [soulmap-ai v0.10.0](https://github.com/tuanductran/soulmap-ai/releases/tag/v0.10.0) | 2026-08-30 |
+| [hr-skills v1.4.0](https://github.com/tuanductran/hr-skills/releases/tag/v1.4.0)     | 2026-08-15 |
 
-• [soulmap-ai v0.10.0](https://github.com/tuanductran/soulmap-ai/releases/tag/v0.10.0) - 2026-08-30<br>• [hr-skills v1.4.0](https://github.com/tuanductran/hr-skills/releases/tag/v1.4.0) - 2026-08-15
-</td>
-<td width="600px" valign="top">
+## Recent Posts
 
-### Recent Posts
-
-• [Vue 3 với TypeScript: Xây dựng Component và Composable Type-safe](https://tuanductran.xyz/posts/vue-3-voi-typescript-composition-api) - 2026-08-27<br>• [TypeScript Toolchain hiện đại: Strict Compiler, Linting, Testing và Build nhanh](https://tuanductran.xyz/posts/typescript-toolchain-hien-dai) - 2026-08-27<br>• [Design Pattern nâng cao trong TypeScript: Thiết kế hệ thống linh hoạt và an toàn về kiểu](https://tuanductran.xyz/posts/design-patterns-nang-cao-trong-typescript) - 2026-08-27<br>• [Clean Code với TypeScript: Nguyên tắc thiết kế mã rõ ràng, an toàn và dễ bảo trì](https://tuanductran.xyz/posts/clean-code-voi-typescript) - 2026-08-27<br>• [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue) - 2026-05-19
-</td>
-</tr>
-</table>
+| Post                                                                                                                                                                | Published  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Vue 3 với TypeScript: Xây dựng Component và Composable Type-safe](https://tuanductran.xyz/posts/vue-3-voi-typescript-composition-api)                              | 2026-08-27 |
+| [TypeScript Toolchain hiện đại: Strict Compiler, Linting, Testing và Build nhanh](https://tuanductran.xyz/posts/typescript-toolchain-hien-dai)                      | 2026-08-27 |
+| [Design Pattern nâng cao trong TypeScript: Thiết kế hệ thống linh hoạt và an toàn về kiểu](https://tuanductran.xyz/posts/design-patterns-nang-cao-trong-typescript) | 2026-08-27 |
+| [Clean Code với TypeScript: Nguyên tắc thiết kế mã rõ ràng, an toàn và dễ bảo trì](https://tuanductran.xyz/posts/clean-code-voi-typescript)                         | 2026-08-27 |
+| [Tìm hiểu hook useLifecycle trong Vue](https://tuanductran.xyz/posts/tim-hieu-hook-uselifecycle-trong-vue)                                                          | 2026-05-19 |
 
 ## Connect with Me
 

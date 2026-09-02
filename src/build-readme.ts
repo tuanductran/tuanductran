@@ -51,15 +51,12 @@ async function main() {
   ])
 
   const latestReleases = pickLatestPerRepo(releases, RELEASE_COUNT)
-  const postsMd = posts.length
-    ? renderFeedEntries(posts)
-    : '• No recent posts available'
 
   const template = await Bun.file(TEMPLATE_PATH).text()
   const rendered = Mustache.render(template, {
     github_stats: formatStats(stats),
     recent_releases: renderReleaseEntries(latestReleases),
-    recent_posts: postsMd,
+    recent_posts: renderFeedEntries(posts),
   })
 
   await Bun.write(README_PATH, rendered)

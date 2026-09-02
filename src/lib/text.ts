@@ -43,3 +43,13 @@ export function truncateMiddle(
   const rightLen = Math.floor(keepLen / 2)
   return `${normalized.slice(0, leftLen)}${ellipsis}${normalized.slice(normalized.length - rightLen)}`
 }
+
+/**
+ * Escape characters that would otherwise break out of a GFM table cell:
+ * `|` (column separator) and literal newlines (cells must be single-line).
+ * `markdown-table` handles column padding/alignment but, by design,
+ * doesn't handle escaping — see https://github.com/wooorm/markdown-table.
+ */
+export function escapeTableCell(text: string): string {
+  return text.replace(/\|/g, '\\|').replace(/\r?\n/g, ' ')
+}

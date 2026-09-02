@@ -16,11 +16,9 @@
     "typecheck": "tsc --noEmit",
     "preinstall": "bunx only-allow bun"
   },
-  "peerDependencies": {
-    "typescript": "6.0.3"
-  },
   "dependencies": {
     "@octokit/rest": "^22.0.1",
+    "markdown-table": "3.0.4",
     "mustache": "4.2.0",
     "rss-parser": "^3.13.0"
   },
