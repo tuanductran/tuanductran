@@ -149,6 +149,21 @@ bun run lint:md:fix
   dependency versions.
 - `stale.yml` — daily cron: labels/closes stale issues and PRs.
 
+## `.claude/` — project skills and permissions
+
+- `.claude/skills/` — one skill per area of this repo's stack:
+  `octokit-github-api` (GitHub API/Octokit conventions — the fail-loud and
+  shared-repo-list patterns above), `bun-runtime` (Bun commands, file I/O,
+  CI caching), `readme-content-pipeline` (Mustache/GFM-table/RSS
+  conventions), `code-style` (eslint/markdownlint conventions). These load
+  automatically when relevant; each is more detailed than the summary here.
+- `.claude/settings.json` — permission rules for this repo: allows the
+  `package.json` scripts and low-risk local git commands
+  (`add`/`commit`/`checkout -b`/`branch -m`/`fetch`) without prompting;
+  denies `npm`/`yarn`/`pnpm` (this repo is Bun-only, see "Bun only" in the
+  `bun-runtime` skill), force-pushes, `--no-verify`, `git reset --hard`,
+  `git clean -f`, `rm -rf`, and reading `.env` files.
+
 ## Conventions
 
 - **`README.md` is generated output — never hand-edit it.** Edit
