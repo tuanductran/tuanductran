@@ -3,6 +3,9 @@
  * Ported from the original `build_readme.py` with the same behavior.
  */
 
+import { markdownTable } from 'markdown-table'
+import stringWidth from 'string-width'
+
 const TITLE_MAX_LEN = 41
 
 // Mirrors the Python EMOJI_RE ranges: flags, pictographs, emoticons,
@@ -42,4 +45,32 @@ export function truncateMiddle(
   const leftLen = Math.floor((keepLen + 1) / 2)
   const rightLen = Math.floor(keepLen / 2)
   return `${normalized.slice(0, leftLen)}${ellipsis}${normalized.slice(normalized.length - rightLen)}`
+}
+
+/**
+ * Escape characters that would otherwise break out of a GFM table cell:
+ * `\` (escape character), `|` (column separator), and literal newlines
+ * (cells must be single-line). Backslashes must be escaped *first* — if
+ * `|` were escaped alone, input already containing `\|` would become
+ * `\\|`, where the doubled backslash reads as one literal backslash and
+ * leaves the following `|` unescaped again, defeating the whole point.
+ * `markdown-table` handles column padding/alignment but, by design,
+ * doesn't handle escaping — see https://github.com/wooorm/markdown-table.
+ */
+export function escapeTableCell(text: string): string {
+  return text
+    .replace(/\\/g, '\\\\')
+    .replace(/\|/g, '\\|')
+    .replace(/\r?\n/g, ' ')
+}
+
+/**
+ * Render a two-column GFM table, escaping `|`/`\`/newlines in every cell
+ * and column-aligning by *display* width rather than UTF-16 code units —
+ * plain `.length` misaligns delimiters for Vietnamese diacritics, CJK, and
+ * emoji. See https://github.com/wooorm/markdown-table#optionsstringlength.
+ */
+export function renderTable(headers: [string, string], rows: [string, string][]): string {
+  const escapedRows = rows.map(row => row.map(escapeTableCell) as [string, string])
+  return markdownTable([headers, ...escapedRows], { stringLength: stringWidth })
 }

@@ -1,6 +1,6 @@
 import type { Octokit } from '@octokit/rest'
 
-import { stripEmoji } from './text'
+import { renderTable, stripEmoji } from './text'
 
 export interface ReleaseEntry {
   repo: string
@@ -113,13 +113,16 @@ export function pickLatestPerRepo(
   return unique
 }
 
-/** Render release entries as the `• [repo release](url) - published` bullet list. */
+/** Render release entries as a GFM table: `Release | Published`. */
 export function renderReleaseEntries(releases: ReleaseEntry[]): string {
-  return releases
-    .map(
-      r => `• [${r.repo} ${r.release}](${r.url}) - ${r.publishedAt}`,
-    )
-    .join('<br>')
+  if (releases.length === 0)
+    return 'No recent releases.'
+
+  const rows: [string, string][] = releases.map(r => [
+    `[${r.repo} ${r.release}](${r.url})`,
+    r.publishedAt,
+  ])
+  return renderTable(['Release', 'Published'], rows)
 }
 
 /** Sum stargazers/forks across owned, non-fork repos, plus optional extra repos, and the user's follower count. */

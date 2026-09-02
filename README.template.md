@@ -10,22 +10,13 @@ Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js
 - **WordPress Tools**: Elementor, Page Builders
 - **Operating Systems**: Windows, Linux (Ubuntu), macOS
 
-<table width="1200px" cellspacing="0" cellpadding="0">
-<tr>
-<td width="600px" valign="top">
-
-### Latest Releases
+## Latest Releases
 
 {{ recent_releases }}
-</td>
-<td width="600px" valign="top">
 
-### Recent Posts
+## Recent Posts
 
 {{ recent_posts }}
-</td>
-</tr>
-</table>
 
 ## Connect with Me
 
