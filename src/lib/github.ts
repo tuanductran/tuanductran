@@ -30,18 +30,25 @@ export function normalizeReleaseTitle(
 
 /**
  * Fetch the most recent non-prerelease release for every public, non-fork
- * repo the authenticated user owns. Extra repos (not owned by the user, e.g.
- * an org project they contribute to) can be included via `extraRepos`.
+ * repo `owner` owns. Extra repos (not owned by `owner`, e.g. an org project
+ * they contribute to) can be included via `extraRepos`.
+ *
+ * Deliberately uses `listForUser` (public, username-scoped) rather than
+ * `listForAuthenticatedUser` ("who am I") — the CI workflow authenticates
+ * with the default `GITHUB_TOKEN`, which is a repo-scoped GitHub App
+ * installation token, not a real user token, so `/user/repos` 403s for it.
  */
 export async function fetchReleases(
   octokit: Octokit,
+  owner: string,
   options: { maxPerRepo?: number } = {},
 ): Promise<ReleaseEntry[]> {
   const { maxPerRepo = 10 } = options
   const releases: ReleaseEntry[] = []
 
   try {
-    const repos = await octokit.paginate(octokit.repos.listForAuthenticatedUser, {
+    const repos = await octokit.paginate(octokit.repos.listForUser, {
+      username: owner,
       type: 'owner',
       per_page: 100,
     })
@@ -125,19 +132,29 @@ export function renderReleaseEntries(releases: ReleaseEntry[]): string {
   return renderTable(['Release', 'Published'], rows)
 }
 
-/** Sum stargazers/forks across owned, non-fork repos, plus optional extra repos, and the user's follower count. */
+/**
+ * Sum stargazers/forks across `owner`'s owned, non-fork repos, plus optional
+ * extra repos, and `owner`'s follower count.
+ *
+ * Uses `getByUsername`/`listForUser` rather than `getAuthenticated`/
+ * `listForAuthenticatedUser` for the same reason as `fetchReleases` above:
+ * the default `GITHUB_TOKEN` isn't a user token, so the "authenticated
+ * user" endpoints 403 for it.
+ */
 export async function fetchGithubStats(
   octokit: Octokit,
+  owner: string,
   fallback: GithubStats,
   extraRepos: Array<{ owner: string, repo: string }> = [],
 ): Promise<GithubStats> {
   try {
-    const { data: user } = await octokit.users.getAuthenticated()
+    const { data: user } = await octokit.users.getByUsername({ username: owner })
 
     let totalStars = 0
     let totalForks = 0
 
-    const repos = await octokit.paginate(octokit.repos.listForAuthenticatedUser, {
+    const repos = await octokit.paginate(octokit.repos.listForUser, {
+      username: owner,
       type: 'owner',
       per_page: 100,
     })

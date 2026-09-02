@@ -45,8 +45,8 @@ async function main() {
   const fallbackStats = await readFallbackStats()
 
   const [releases, stats, posts] = await Promise.all([
-    fetchReleases(octokit),
-    fetchGithubStats(octokit, fallbackStats),
+    fetchReleases(octokit, GITHUB_OWNER),
+    fetchGithubStats(octokit, GITHUB_OWNER, fallbackStats),
     fetchFeedEntries(BLOG_RSS_URL, POST_COUNT),
   ])
 
