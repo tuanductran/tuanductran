@@ -2,7 +2,7 @@
   "name": "tuanductran",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "bun@1.4.0",
+  "packageManager": "bun@1.4.2",
   "author": "Tuan Duc Tran <tuanductran.dev@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/tuanductran/tuanductran.git",
