@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there
 
 I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.js** and **TypeScript**, building dynamic, responsive, high-performance web apps. {{ github_stats }} across my public repos. Also the builder of open-source HR/TA tooling and [SoulMap AI](https://github.com/tuanductran/soulmap-ai), a reflective AI companion.
 
