@@ -1,4 +1,4 @@
-Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.js** and **TypeScript**, building dynamic, responsive, high-performance web apps. 594 followers, 107 stars, 24 forks across my public repos. Also the builder of open-source HR/TA tooling and [SoulMap AI](https://github.com/tuanductran/soulmap-ai), a reflective AI companion.
+Hey there! I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.js** and **TypeScript**, building dynamic, responsive, high-performance web apps. 596 followers, 107 stars, 24 forks across my public repos. Also the builder of open-source HR/TA tooling and [SoulMap AI](https://github.com/tuanductran/soulmap-ai), a reflective AI companion.
 
 [![Tuan Duc Tran profile views](https://u8views.com/api/v1/github/profiles/69758022/views/day-week-month-total-count.svg)](https://u8views.com/github/tuanductran)
 
