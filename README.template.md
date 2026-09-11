@@ -2,21 +2,21 @@
 
 I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.js** and **TypeScript**. {{ github_stats }} across my public repos.
 
-**Founder of [HR/TA Job Onsite/Hybrid/Remote](https://zalo.me/g/mphdei134)** — a Zalo community for people working in Human Resources (HR) and Talent Acquisition (TA), sharing job opportunities across Onsite, Hybrid, and Remote roles.
+**Founder of [HR/TA Job Onsite/Hybrid/Remote](https://zalo.me/g/mphdei134)** — a Zalo community sharing HR/TA job opportunities.
 
-I build [hr-skills](https://github.com/tuanductran/hr-skills) — an open-source Bun + Turborepo monorepo of HR-focused AI skill files for Claude, shaped by understanding both the technical and HR sides of hiring.
+I build [hr-skills](https://github.com/tuanductran/hr-skills) — an open-source Bun + Turborepo monorepo of HR-focused AI skill files for Claude.
 
 ---
 
 ## Currently
 
-- Growing [HR/TA Job Onsite/Hybrid/Remote](https://zalo.me/g/mphdei134): a Zalo community for HR/TA professionals, sharing job opportunities across Onsite, Hybrid, and Remote roles
-- Building [hr-skills](https://github.com/tuanductran/hr-skills): a structured knowledge base of HR-focused AI skill files for Claude, covering culture, HRIS, learning & development, total rewards, and more
+- Growing [HR/TA Job Onsite/Hybrid/Remote](https://zalo.me/g/mphdei134): 500+ HR/TA members sharing jobs across Onsite, Hybrid, Remote
+- Building [hr-skills](https://github.com/tuanductran/hr-skills): AI skills covering culture, HRIS, L&D, total rewards, and more
 
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white)](https://www.instagram.com/ductt.56)
+[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logoColor=white)](https://tuanductran.xyz)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logoColor=white)](https://www.threads.com/@ductt.56)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/tuanductran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logoColor=white)](https://linkedin.com/in/tuanductran)
 
 **👇 Check out my pinned repos below.**
