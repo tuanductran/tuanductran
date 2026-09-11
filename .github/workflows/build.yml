@@ -55,5 +55,5 @@ jobs:
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v7.2.0
         with:
-          commit_message: 'chore: update README with latest releases and posts'
+          commit_message: 'chore: update README with latest GitHub stats'
           file_pattern: README.md

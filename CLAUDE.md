@@ -23,41 +23,39 @@ the [tuanductran](https://github.com/tuanductran) profile page.
   retries and GitHub's rate-limit pacing.
 - **Templating**: `mustache`, with HTML-escaping disabled
   (`Mustache.escape = (text) => text` in `src/build-readme.ts`) because the
-  output is Markdown, not HTML — the default escaping would corrupt titles
-  containing `&`, `<`, `>`, or quotes.
-- **Tables**: `markdown-table` + `string-width` render GFM tables aligned by
-  _display_ width, so Vietnamese diacritics/CJK/emoji don't misalign column
-  delimiters (`src/lib/text.ts`).
-- **Feed**: `rss-parser` for the blog RSS feed.
+  output is Markdown, not HTML — the default escaping would corrupt the
+  stats line if it ever contained `&`, `<`, `>`, or quotes.
 - **Linting**: `@antfu/eslint-config` (`eslint.config.mjs`) and
   `markdownlint-cli2` (`.markdownlint-cli2.jsonc`) for Markdown files.
 
 ## Architecture
 
 - `src/build-readme.ts` — entry point (`bun run build`). Fetches the
-  owner's repo list once, then releases/stats/posts in parallel, renders
+  owner's repo list once, then the owner's GitHub stats, renders
   `README.template.md` with Mustache, writes `README.md`.
   - `GITHUB_OWNER` env var (default `'tuanductran'`) is the GitHub username
-    whose releases/stats/top-repos populate the README.
-  - `BLOG_RSS_URL` env var (default `https://tuanductran.xyz/rss.xml`).
+    whose stats populate the README.
   - Calls `fetchOwnerRepos()` once and passes the result into
-    `fetchReleases()`, `fetchGithubStats()`, and `pickTopRepos()` — those
-    three used to each independently re-list the owner's repos (up to three
-    identical `GET /users/{owner}/repos` calls per build); fetching once and
-    sharing it is this repo's one real "cache," in the sense of avoiding
+    `fetchGithubStats()` rather than having it re-list the owner's repos
+    independently — this repo's one real "cache," in the sense of avoiding
     redundant work within a single build run (see "Caching" below for what
     was deliberately _not_ built).
 - `src/lib/github.ts` — `fetchOwnerRepos()` (the shared repo list),
-  `fetchReleases()`, `fetchGithubStats()`, `pickTopRepos()` (GitHub REST
-  calls via Octokit / derived from the shared repo list), plus pure
-  helpers: `normalizeReleaseTitle()`, `pickLatestPerRepo()`,
-  `renderReleaseEntries()`, `renderTopRepos()`, `formatStats()`.
-- `src/lib/feed.ts` — `fetchFeedEntries()` / `renderFeedEntries()` for the
-  blog RSS feed, via `rss-parser`.
-- `src/lib/text.ts` — pure formatting helpers shared by both: emoji
-  stripping, middle-truncation, GFM table-cell escaping/rendering.
+  `fetchGithubStats()` (GitHub REST calls via Octokit / derived from the
+  shared repo list), plus `formatStats()`.
 - `src/lib/octokit.ts` — `createOctokit(auth)` factory wiring up the retry
   and throttling plugins.
+
+> **Removed (formerly present):** the "Latest Releases", "Top
+> Repositories", and "Recent Posts" sections, along with the code that
+> produced them — `fetchReleases()`, `pickLatestPerRepo()`,
+> `renderReleaseEntries()`, `pickTopRepos()`, `renderTopRepos()`,
+> `normalizeReleaseTitle()` (all formerly in `src/lib/github.ts`),
+> `src/lib/feed.ts` (blog RSS fetching), and `src/lib/text.ts` (the GFM
+> table/emoji/truncation helpers those two used). The `rss-parser`,
+> `markdown-table`, and `string-width` dependencies were dropped along
+> with them. The README now only shows the intro paragraph, social badges,
+> and the GitHub stats line.
 
 ## Important: use username-scoped GitHub API endpoints, not "authenticated user" ones
 
@@ -75,36 +73,33 @@ endpoints so this doesn't regress (it did once; see this repo's history).
 
 ## Important: a top-level fetch failure must abort the build, not degrade it
 
-`fetchOwnerRepos()`, `fetchReleases()`, and `fetchGithubStats()` do **not**
-catch and swallow a failure of their own main API call (an auth/token
-problem, a network error, GitHub down) — they let it throw. Only a
-_per-item_ failure inside a loop (one repo's `listReleases`, one
-`extraRepos` lookup) is caught, logged, and skipped, since that doesn't
+`fetchOwnerRepos()` and `fetchGithubStats()` do **not** catch and swallow a
+failure of their own main API call (an auth/token problem, a network
+error, GitHub down) — they let it throw. Only a _per-item_ `extraRepos`
+lookup inside a loop is caught, logged, and skipped, since that doesn't
 taint the rest of the run.
 
-This is deliberate: `main()` in `src/build-readme.ts` already wraps its
-`Promise.all` in nothing (no local try/catch), so a thrown error propagates
-all the way up to the top-level `main().catch(...)`, which logs it and sets
-a non-zero exit code — **before** `README.md` is ever written. In CI, that
-fails the `bun run build` step, which stops the workflow before
+This is deliberate: `main()` in `src/build-readme.ts` has no local
+try/catch around these calls, so a thrown error propagates all the way up
+to the top-level `main().catch(...)`, which logs it and sets a non-zero
+exit code — **before** `README.md` is ever written. In CI, that fails the
+`bun run build` step, which stops the workflow before
 `git-auto-commit-action` runs. So a broken fetch can never overwrite a good
-README with a degraded one (`No recent releases.`, zeroed-out stats, an
-empty repo list) — it just leaves the last known-good commit alone and
-turns the workflow run red so it gets noticed. Do not add a
-try/catch-and-return-fallback around these three functions' main calls; if
-you need graceful degradation for some _new_ fetch, make that an explicit,
-separate decision, not a silent default.
+README with a degraded one (zeroed-out stats, an empty repo list) — it
+just leaves the last known-good commit alone and turns the workflow run
+red so it gets noticed. Do not add a try/catch-and-return-fallback around
+either function's main call; if you need graceful degradation for some
+_new_ fetch, make that an explicit, separate decision, not a silent
+default.
 
 ## Caching
 
 The only caching this repo does, and the reasoning behind not doing more:
 
 - **In-run memoization (implemented)**: `fetchOwnerRepos()` in
-  `src/build-readme.ts` is called once per build and its result is shared
-  across `fetchReleases()`, `fetchGithubStats()`, and `pickTopRepos()`,
-  instead of each independently calling `listForUser`. This is a real,
-  measurable reduction in API calls per run (was up to 3x the same request,
-  now 1x).
+  `src/build-readme.ts` is called once per build and its result is passed
+  into `fetchGithubStats()`, instead of `fetchGithubStats()` independently
+  calling `listForUser` itself.
 - **CI dependency cache (implemented)**: both `build.yml` and `lint.yml`
   cache `~/.bun/install/cache` (Bun's global package cache) keyed on
   `hashFiles('bun.lockb')` via `actions/cache`, so
@@ -116,11 +111,11 @@ The only caching this repo does, and the reasoning behind not doing more:
   against the rate limit. This was considered and rejected for two reasons:
   (1) it's documented as unreliable for GitHub App installation-token auth
   — exactly what `secrets.GITHUB_TOKEN` is here — sometimes returning `200`
-  instead of `304`; and (2) this workflow runs once a day and makes at most
-  a few dozen requests, nowhere near the 5,000/hour authenticated rate
-  limit, so there's no real problem this would solve. Don't add a
-  persisted ETag/response cache unless the call volume actually grows
-  enough to matter.
+  instead of `304`; and (2) this workflow runs once a day and makes only a
+  handful of requests (one repo list, one stats call) per build, nowhere
+  near the 5,000/hour authenticated rate limit, so there's no real problem
+  this would solve. Don't add a persisted ETag/response cache unless the
+  call volume actually grows enough to matter.
 
 ## Commands
 
@@ -138,9 +133,10 @@ bun run lint:md:fix
 
 - `build.yml` — daily cron (`00:00 UTC`) + on push to `master` touching
   `src/**`/`package.json`/`bun.lockb` + manual dispatch. Installs, tests,
-  typechecks, runs `bun run build`, lints Markdown, then commits
-  `README.md` back via `stefanzweifel/git-auto-commit-action` (needs
-  `permissions: contents: write`, already set).
+  typechecks, runs `bun run build` (regenerates the GitHub stats line),
+  lints Markdown, then commits `README.md` back via
+  `stefanzweifel/git-auto-commit-action` (needs `permissions: contents:
+write`, already set).
 - `lint.yml` — on push to `master` and on PRs: lint + typecheck + test.
 - Both `build.yml` and `lint.yml` cache `~/.bun/install/cache` via
   `actions/cache`, keyed on `hashFiles('bun.lockb')`, before
@@ -154,8 +150,8 @@ bun run lint:md:fix
 - `.claude/skills/` — one skill per area of this repo's stack:
   `octokit-github-api` (GitHub API/Octokit conventions — the fail-loud and
   shared-repo-list patterns above), `bun-runtime` (Bun commands, file I/O,
-  CI caching), `readme-content-pipeline` (Mustache/GFM-table/RSS
-  conventions), `code-style` (eslint/markdownlint conventions). These load
+  CI caching), `readme-content-pipeline` (Mustache templating for the
+  stats line), `code-style` (eslint/markdownlint conventions). These load
   automatically when relevant; each is more detailed than the summary here.
 - `.claude/settings.json` — permission rules for this repo:
   - `allow`: the `package.json` scripts and low-risk local git commands

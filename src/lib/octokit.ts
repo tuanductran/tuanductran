@@ -7,8 +7,8 @@ import { Octokit as OctokitCore } from '@octokit/rest'
  * recommend for anything beyond a one-off script: `retry` re-sends
  * requests that fail with a transient network/5xx error, and `throttling`
  * implements GitHub's documented request-pacing rules so a burst of calls
- * (one `listReleases` per repo, in our case) doesn't trip a secondary rate
- * limit. See https://github.com/octokit/plugin-throttling.js and
+ * doesn't trip a secondary rate limit. See
+ * https://github.com/octokit/plugin-throttling.js and
  * https://github.com/octokit/plugin-retry.js.
  */
 const Octokit = OctokitCore.plugin(retry, throttling)

@@ -5,15 +5,3 @@ I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white)](https://www.instagram.com/ductt.56)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logoColor=white)](https://www.threads.com/@ductt.56)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/tuanductran)
-
-## Latest Releases
-
-{{ recent_releases }}
-
-## Top Repositories
-
-{{ top_repos }}
-
-## Recent Posts
-
-{{ recent_posts }}
