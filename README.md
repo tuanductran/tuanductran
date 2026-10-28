@@ -1,6 +1,6 @@
 # Hey there
 
-I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.js** and **TypeScript**. 611 followers, 129 stars, 27 forks across my public repos.
+I'm **Tuan Duc Tran**, a Front-End Developer specializing in **Vue.js**, **Nuxt.js** and **TypeScript**. 611 followers, 130 stars, 27 forks across my public repos.
 
 **Founder of [HR/TA Job Onsite/Hybrid/Remote](https://zalo.me/g/mphdei134)** — a Zalo community sharing HR/TA job opportunities.
 
